@@ -113,6 +113,11 @@ sudo apt-get install -y docker-ce
 +++?image=img/DockerRun2.gif
 ### run
 
+- sudo docker run -e PASSWORD=8888 -v ~:/home/algo -p 8788:8787 masamasadocker/rbeginnerstudio
+
++++
+### run
+
 <img src="img/DockerRun2.gif" width="720"> 
 
 

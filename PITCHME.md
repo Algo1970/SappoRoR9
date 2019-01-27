@@ -111,9 +111,9 @@ sudo apt-get install -y docker-ce
 
 
 +++?image=img/DockerRun2.gif
-### run
+### <font size="2" color="yellow">3倍早送りでdocker run</font>
 
-- sudo docker run -e PASSWORD=8888 -v ~:/home/algo -p 8788:8787 masamasadocker/rbeginnerstudio
+
 
 +++
 ### run

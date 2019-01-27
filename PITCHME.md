@@ -1,7 +1,18 @@
 ### <img src="img/title_sapporor9.png" height="200" alt= "title"/>  
 
 ---
-### Rstudio
+### Rstudioの準備って時間かかりませんか？
+
+- R, Rstudioのインストール
+- Rパッケージのインストール（結構長い）
+- Rstudioの設定（フォントサイズ、エディターテーマ、ペインレイアウト）
+- r.snippetsの設定（.R/snippets/）
+
+---
+### Dockerにおまかせ
+
+<img src="img/docker-logo.png" height="500" alt= "title"/>
+
 
 ---
 ### 本日の内容

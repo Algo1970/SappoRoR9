@@ -1,0 +1,34 @@
+#テーマの設定 black, moon, night, beige, sky, and white
+theme : white, sky
+
+#css
+theme-override: css/PITCHME.css
+theme-override : assets/css/PITCHME.css
+
+#ロゴアイコンの設定
+#logo : img_slide/apple_hidanaika300.png
+logo : img_slide/clinic_logo1_300.png
+#logo : img_slide/clinic_logo1_275.png
+#logo : img_slide/clinic_logo2_330.png
+#logo : img_slide/clinic_logo4_280.png
+
+#フットノートの設定
+footnote : "2018.07.08 地域連携談話会 個別化医療の提案　～地域連携を活かして、患者に寄り添う～"
+
+#スライドのページ数表示の設定
+slide-number: true
+
+#コードのシンタックスハイライトの設定
+#highlight : monokai
+
+#スライド自動再生の設定
+#autoslide : 5000
+
+#スライドのループ設定
+#loop : true
+
+#トランジションの設定 convex, concave, default, fade, none, slide and zoom
+transition : slide
+
+#チャート / グラフ機能の設定
+#charts : true

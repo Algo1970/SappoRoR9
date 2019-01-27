@@ -1,6 +1,6 @@
 ### <img src="img/title_sapporor9.png" height="150" alt= "title"/>  
 
-
+---
 ### 非アルコール性脂肪性肝疾患<p id='p_120_orange'>NAFLD</p><p id='p_80'>についての最近の話題</p><p id ='p_40'><br><br><br>飛驒内科クリニック　飛驒昌彦</p>
 
 

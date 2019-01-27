@@ -110,10 +110,10 @@ sudo apt-get install -y docker-ce
 <img src="img_NAFLD/NAFLDdot.png" height="400" />  
 
 
-+++?image=img_NAFLD/NAFLD_patho.jpg
++++?image=img/DockerRun.gif
 ### run
 
-<font size="6" color="black">肝臓に脂肪が過剰に蓄積した状態<br>肝細胞の30％以上に脂肪空胞が認められる</font>
+<img src="img/DockerRun.gif" width="720"> 
 
 
 +++?color=#6b8e23

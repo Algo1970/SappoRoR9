@@ -48,6 +48,10 @@ gif動画
 
 <img src="img/docker-logo.png" height="400" alt= "title"/>
 
++++
+### コンテナって何ですか？
+
+<img src="img/container.png" height="400" alt= "title"/>
 
 ---
 ### 本日の内容
@@ -62,6 +66,16 @@ gif動画
 ---
 ### dockerのインストール
 
+<img src="img/os_images.png" height="250" alt= "title"/>
+
++++
+### あなたに合うOSは？
+
+<img src="img/os_flowchart.png" height="400" alt= "title"/>
+
++++
+### install docker on Ubuntu18.04LTS
+エディターに下記をコピペして、`hogehoge.sh`か何かで保存。実行は`sh hogehoge.sh`
 ```
 #!/bin/sh
 

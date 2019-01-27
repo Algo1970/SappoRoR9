@@ -46,7 +46,7 @@ gif動画
 ---
 ### Dockerにおまかせ
 
-<img src="img/docker-logo.png" height="500" alt= "title"/>
+<img src="img/docker-logo.png" height="400" alt= "title"/>
 
 
 ---
@@ -65,19 +65,15 @@ gif動画
 ```
 #!/bin/sh
 
-sudo apt-get update
-# 前提ソフトウェアのインストール
+sudo apt-get update    # 前提ソフトウェアのインストール
 sudo apt-get install -y \
     apt-transport-https \
     ca-certificates \
     curl \
     software-properties-common
-# GPG 公開鍵のインストール
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-# 公開鍵のフィンガープリントを確認
-sudo apt-key fingerprint 0EBFCD88
-# aptリポジトリの設定(x86_64)
-sudo add-apt-repository \
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -    # GPG 公開鍵のインストール
+sudo apt-key fingerprint 0EBFCD88  # 公開鍵のフィンガープリントを確認
+sudo add-apt-repository \   # aptリポジトリの設定(x86_64)
    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
    $(lsb_release -cs) \
    stable"

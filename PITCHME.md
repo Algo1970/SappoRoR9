@@ -60,29 +60,48 @@ gif動画
 6. オレオレdocker image
 
 ---
-### 非アルコール性脂肪性肝疾患<br>(<font id='p_120_orange'>NAFLD</font>)<font id="p_80">とは</font>
+### dockerのインストール
+
+```
+#!/bin/sh
+
+sudo apt-get update
+# 前提ソフトウェアのインストール
+sudo apt-get install -y \
+    apt-transport-https \
+    ca-certificates \
+    curl \
+    software-properties-common
+# GPG 公開鍵のインストール
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+# 公開鍵のフィンガープリントを確認
+sudo apt-key fingerprint 0EBFCD88
+# aptリポジトリの設定(x86_64)
+sudo add-apt-repository \
+   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+   $(lsb_release -cs) \
+   stable"
+sudo apt-get update
+sudo apt-get install -y docker-ce
+```
+
+---
+### Dockerfileの書き方
+
+
+
+---
+### build
 
 
 +++
-### Rパッケージのインストール
-
-
-
-+++
-### 飲酒歴がないってどれくらい？
-
-ビール中瓶1本，日本酒1合，<br >ワイングラス2杯以下
-<br>
-<font id="p_80">（男性30g/日以下、女性20g/日以下）</font>
-
-+++
-### 脂肪性肝疾患の分類 
+### push 
 
 <img src="img_NAFLD/NAFLDdot.png" height="400" />  
 
 
 +++?image=img_NAFLD/NAFLD_patho.jpg
-### <font id='p_120'>脂肪肝とは</font >
+### run
 
 <font size="6" color="black">肝臓に脂肪が過剰に蓄積した状態<br>肝細胞の30％以上に脂肪空胞が認められる</font>
 

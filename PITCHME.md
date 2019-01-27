@@ -21,7 +21,7 @@ gif動画
 +++
 ### Rstudioの設定
 
-<img src="img/global_option1.png" height="500" alt= "title"/>  
+<img src="img/global_options1.png" height="500" alt= "title"/>  
 
 +++
 ### Rstudioのペインレイアウト

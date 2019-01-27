@@ -71,7 +71,7 @@ gif動画
 +++
 ### あなたに合うOSは？
 
-<img src="img/os_flowchart.png" height="400" alt= "title"/>
+<img src="img/os_flowchart2.png" height="400" alt= "title"/>
 
 +++
 ### install docker on Ubuntu18.04LTS

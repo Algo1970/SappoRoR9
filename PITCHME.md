@@ -111,7 +111,7 @@ sudo apt-get install -y docker-ce
 
 
 +++?image=img/DockerRun2.gif
-### <font size="7" color="yellow">３倍早送りでdocker run中</font><br><font size="4" color="yellow">実際は1分半ぐらい</font>
+### <font size="7" color="yellow">３倍早送りでdocker run中</font><br><font size="5" color="yellow">（実際は1分半ぐらい）</font>
 
 
 

@@ -14,6 +14,11 @@
 gif動画
 
 +++
+### Rstudioのデフォルト設定
+
+<img src="img/rstudio_default.png" height="500" alt= "title"/>  
+
++++
 ### Rstudioの設定
 
 <img src="img/global_option1.png" height="500" alt= "title"/>  
@@ -31,7 +36,7 @@ gif動画
 +++
 ### Rstudioのデフォルト設定
 
-<img src="img/rstudio_defaultjpg.png" height="500" alt= "title"/>  
+<img src="img/rstudio_default.png" height="500" alt= "title"/>  
 
 +++
 ### Rstudioのスニペット

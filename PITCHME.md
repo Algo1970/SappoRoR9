@@ -5,8 +5,42 @@
 
 - R, Rstudioのインストール
 - Rパッケージのインストール（結構長い）
-- Rstudioの設定（フォントサイズ、エディターテーマ、ペインレイアウト）
+- Rstudioの設定（フォントサイズ、エディターテーマ、ペインレイアウト、キーバインド）
 - r.snippetsの設定（.R/snippets/）
+
++++
+### Rパッケージのインストール
+
+gif動画
+
++++
+### Rstudioの設定
+
+<img src="img/global_option1.png" height="500" alt= "title"/>  
+
++++
+### Rstudioのペインレイアウト
+
+<img src="img/pane_layout.png" height="500" alt= "title"/>  
+
++++
+### Rstudioのテーマ
+
+<img src="img/rstudio_theme.png" height="500" alt= "title"/>  
+
++++
+### Rstudioのデフォルト設定
+
+<img src="img/rstudio_defaultjpg.png" height="500" alt= "title"/>  
+
++++
+### Rstudioのスニペット
+
+---
+### 今日はDockerとRstudio設定の話
+
+
+
 
 ---
 ### Dockerにおまかせ
@@ -17,23 +51,21 @@
 ---
 ### 本日の内容
 
-1. <font id='p_120_orange'>NAFLD</font>とは
-2. <font id='p_120_orange'>NAFLD</font>の問題点
-3. <font id='p_120_orange'>NAFLD</font>の最近の話題
-4. <font id='p_120_orange'>NAFLD</font>の診断
-5. <font id='p_120_orange'>NAFLD</font>の治療
-6. 当院での<font id='p_120_orange'>NAFLD</font>診療
+1. dockerのインストール
+2. Dockerfileの書き方
+3. build
+4. push
+5. run
+6. オレオレdocker image
 
 ---
 ### 非アルコール性脂肪性肝疾患<br>(<font id='p_120_orange'>NAFLD</font>)<font id="p_80">とは</font>
 
 
 +++
-### 非アルコール性脂肪性肝疾患<br>(<font id='p_120_orange'>NAFLD</font>)とは
+### Rパッケージのインストール
 
-- 飲酒歴がない
-- 肝炎ウイルス、自己抗体等陰性
-- 画像所見で脂肪肝を認める
+
 
 +++
 ### 飲酒歴がないってどれくらい？

@@ -33,10 +33,6 @@ gif動画
 
 <img src="img/rstudio_theme.png" height="500" alt= "title"/>  
 
-+++
-### Rstudioのデフォルト設定
-
-<img src="img/rstudio_default.png" height="500" alt= "title"/>  
 
 +++
 ### Rstudioのスニペット

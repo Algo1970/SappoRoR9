@@ -1,0 +1,34 @@
+#テーマの設定 black, moon, night, beige, sky, and white
+theme : white, sky
+
+#css
+theme-override: css/PITCHME.css
+theme-override : assets/css/PITCHME.css
+
+#ロゴアイコンの設定
+#logo : img_slide/apple_hidanaika300.png
+logo : img/clinic_logo1_300.png
+#logo : img/clinic_logo1_275.png
+#logo : img/clinic_logo2_330.png
+#logo : img/clinic_logo4_280.png
+
+#フットノートの設定
+footnote : "2019.03.02 SappoRoR #9"
+
+#スライドのページ数表示の設定
+slide-number: true
+
+#コードのシンタックスハイライトの設定
+#highlight : monokai
+
+#スライド自動再生の設定
+#autoslide : 5000
+
+#スライドのループ設定
+#loop : true
+
+#トランジションの設定 convex, concave, default, fade, none, slide and zoom
+transition : slide
+
+#チャート / グラフ機能の設定
+#charts : true

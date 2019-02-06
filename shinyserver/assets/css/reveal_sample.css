@@ -1,0 +1,125 @@
+/*
+Yu Gothic UI 太字,Yu Gothic UI,Meiryo UI,
+serif ;""を付けない
+*/
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal p {
+  color: black;
+}
+
+.reveal div{
+  text-align: left;
+}
+
+
+#p_small_gray {
+  font-size : 20px ;
+  font-family: serif;
+  color : gray;
+}
+
+#p_header {
+  font-size : 15px ;
+  text-align: right;
+  color : gray;
+}
+
+#p_small_white {
+  font-size : 20px ;
+  color : white;
+}
+
+#p_white_right {
+  font-size : 20px ;
+  color : red;
+  position: relative;
+  right : 10px ;
+}
+
+#img_right {
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  padding: 5px;
+  float: left;
+}
+
+#column1 {
+  width: 400px;
+  text-align: left;
+  float: left;
+}
+#column2 {
+  width: 560px;
+  margin-top :10px;
+  text-align: left;
+  float: left;
+}
+
+#img_logo {
+  padding: 1px;
+  float: left;
+}
+
+#p_logo {
+  color :gray;
+  font-size: 20px;
+  float: right;
+}
+
+#p_150 {
+  font-size: 150%;
+}
+#p_150_bold {
+  font-size: 150%;
+  font-weight: bolder;
+}
+#p_150_bold_white {
+  font-size: 150%;
+  font-weight: bolder;
+  color: white;
+}
+#p_150_bold_olive {
+  font-size: 150%;
+  font-weight: bolder;
+  font-family:"TakaoMincho";
+  color: #6b8e23;
+}
+#p_80 {
+  font-size: 80%;
+}
+#p_120_gold {
+  font-size: 120%;
+  color: #ffd700;
+}
+#p_orange {
+  color: orange;
+}
+#p_120_orange {
+  font-size: 120%;
+  color: orange;
+}
+#p_120_white {
+  font-size: 120%;
+  color: white;
+}
+#p_150_white {
+  font-size: 150%;
+  color: white;
+}
+#p_60 {
+  font-size: 60%;
+}
+#p_40 {
+  font-size: 40%;
+  text-align: right;
+  right : 10px ;
+}
+#p_120 {
+  font-size: 120%;
+}

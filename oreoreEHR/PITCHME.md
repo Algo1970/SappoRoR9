@@ -9,7 +9,7 @@
 - r.snippetsの設定（.R/snippets/）
 
 +++
-### Rパッケージのインストール
+### Summer @emoji[sunny] + @emoji[sunflower] = happy @emoji[honeybee]
 
 gif動画
 

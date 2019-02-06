@@ -15,7 +15,7 @@
 <i class="em em-gift"></i>
 
 +++
-### <i class="em em-gift"></i>
+### <i class="em em-gift">test</i>
 
 <img src="img/rstudio_default.jpg" height="500" alt= "title"/>  
 

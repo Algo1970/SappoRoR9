@@ -12,9 +12,10 @@
 ### Summer @emoji[sunny] + @emoji[sunflower] = happy @emoji[honeybee]
 
 <i class="em em-heart"></i>
+<i class="em em-gift"></i>
 
 +++
-### Rstudioのデフォルト設定
+### <i class="em em-gift"></i>
 
 <img src="img/rstudio_default.jpg" height="500" alt= "title"/>  
 

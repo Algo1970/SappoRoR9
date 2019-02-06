@@ -11,7 +11,7 @@
 +++
 ### Summer @emoji[sunny] + @emoji[sunflower] = happy @emoji[honeybee]
 
-gif動画
+<i class="em em-heart"></i>
 
 +++
 ### Rstudioのデフォルト設定

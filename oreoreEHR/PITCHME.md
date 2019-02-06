@@ -1,9 +1,9 @@
 ### <img src="oreoreEHR/img/oreoreEHR.png" height="600" alt= "title"/>  
 
 ---
-### Rstudioの準備って時間かかりませんか？
+### 自己紹介
 
-- R, Rstudioのインストール
+- @fa[puzzle-piece fa-spin shocking-pink]
 - Rパッケージのインストール（結構長い）
 - Rstudioの設定（フォントサイズ、エディターテーマ、ペインレイアウト、キーバインド）
 - r.snippetsの設定（.R/snippets/）

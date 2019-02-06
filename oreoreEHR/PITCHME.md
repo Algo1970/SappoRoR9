@@ -3,7 +3,7 @@
 ---
 ### 自己紹介
 
-- @fa[twitter fa-2x twitter-blue]
+- @fa[twitter fa-2x twitter-blue] @R_beginner
 - Rパッケージのインストール（結構長い）
 - Rstudioの設定（フォントサイズ、エディターテーマ、ペインレイアウト、キーバインド）
 - r.snippetsの設定（.R/snippets/）

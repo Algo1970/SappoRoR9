@@ -3,6 +3,8 @@ Yu Gothic UI 太字,Yu Gothic UI,Meiryo UI,
 serif ;""を付けない
 */
 
+.shocking-pink { color : #fc0fc0; }
+
 .reveal section img {
   border: 0;
   box-shadow: none;

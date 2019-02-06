@@ -2,12 +2,12 @@
 theme : white, sky
 
 #css
-theme-override: css/PITCHME.css
-theme-override : assets/css/PITCHME.css
+theme-override: oreoreEHR/css/PITCHME.css
+theme-override : oreoreEHR/assets/css/PITCHME.css
 
 #ロゴアイコンの設定
 #logo : img_slide/apple_hidanaika300.png
-logo : img/clinic_logo1_300.png
+logo : oreoreEHR/img/clinic_logo1_300.png
 #logo : img/clinic_logo1_275.png
 #logo : img/clinic_logo2_330.png
 #logo : img/clinic_logo4_280.png

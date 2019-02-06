@@ -17,7 +17,22 @@
 +++
 ### <i class="em em-gift">test</i>
 
-<img src="img/rstudio_default.jpg" height="500" alt= "title"/>  
+@snap[north-west span-40]
+### Q: How can you tell if a computer @color[#e49436](geek) is an extrovert?
+@snapend
+
+@snap[north-east span-50]
+#### A: They stare at **your shoes** when you talk instead of their own<sup>1</sup>.
+@snapend
+
+@snap[south span-100]
+@size[0.5em](1. Any similarity to actual persons, living or dead, is purely coincidental!)
+@snapend
+
+@snap[east]
+@fa[smile-o fa-5x]
+@snapend
+
 
 +++
 ### Rstudioの設定

@@ -1,4 +1,4 @@
-### <img src="img/title_sapporor9.png" height="200" alt= "title"/>  
+### <img src="oreoreEHR/img/oreoreEHR.png" height="600" alt= "title"/>  
 
 ---
 ### Rstudioの準備って時間かかりませんか？

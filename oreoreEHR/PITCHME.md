@@ -15,7 +15,7 @@
 +++
 ### 当院のネットワーク構成
 
-<img src="oreoreEHR/img/Clinic_Network.png" height="250" alt= "title"/>  
+<img src="oreoreEHR/img/Clinic_Network.png" height="0" alt= "title"/>  
 
 ---
 ### shiny apps

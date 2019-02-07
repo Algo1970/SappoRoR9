@@ -14,7 +14,7 @@
 ### 自己紹介
 
 @snap[west span-50]
-<img src="oreoreEHR/img/dog_circle.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/dog_circle.png" height="0" alt= "title"/>  
 @snapend
 
 @snap[east span-50]

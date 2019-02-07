@@ -111,16 +111,12 @@
 
 <img src="oreoreEHR/img/pyramid_DM.jpg" height="500" alt= "title"/>  
 
++++
+### Rmarkdownで患者説明資料
+
 +++?image=oreoreEHR/img/Rmd_HCV.png&size=contain
-### Rmarkdown
-
-<img src="oreoreEHR/img/Rmd_HCV.png" height="500" alt= "title"/>  
-
-
-
 
 +++?image=oreoreEHR/img/Rmd_HCV.png&size=auto 90%
-
 
 +++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 ### Rmarkdowm2

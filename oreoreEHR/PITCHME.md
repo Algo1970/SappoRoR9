@@ -95,7 +95,7 @@
 
 <img src="oreoreEHR/img/pyramid_DM.jpg" height="500" alt= "title"/>  
 
-+++
++++?image=oreoreEHR/img/Rmd_HCV.png
 ### Rmarkdown
 
 <img src="oreoreEHR/img/Rmd_HCV.png" height="500" alt= "title"/>  
@@ -222,20 +222,6 @@ sudo add-apt-repository \   # aptリポジトリの設定(x86_64)
 sudo apt-get update
 sudo apt-get install -y docker-ce
 ```
-
----
-### Dockerfileの書き方
-
-
-
----
-### build
-
-
-+++
-### push 
-
-<img src="img_NAFLD/NAFLDdot.png" height="400" />  
 
 
 +++?image=img/DockerRun2.gif

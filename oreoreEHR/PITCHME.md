@@ -64,6 +64,27 @@
 <img src="oreoreEHR/img/alert.png" height="250" alt= "title"/>  
 
 +++
+### 長期処方で予約日が決めにくい
+
++++
+@snap[west span-50]
+<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
+@snapend
+@snap[east span-50]
+<img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
+@snapend
+
++++
+@snap[west span-50]
+<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
+@snapend
+@snap[east span-50]
+<img src="oreoreEHR/img/shiny_yoyaku2.gif" height="500" alt= "title"/>  
+@snapend
+
+
+
++++
 ### 体重の経過が見にくい
 ### 必要栄養量の計算が面倒
 
@@ -141,15 +162,13 @@
 
 +++?image=oreoreEHR/img/Rmd_HCV.png&size=contain
 
-+++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 
 +++
 ### 患者G「どうして豚肉は生で食べちゃいけないの？」
 
-+++
-### yoyaku
 
-<img src="oreoreEHR/img/yoyaku.png" height="500" alt= "title"/>  
++++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
+
 
 
 ---
@@ -196,41 +215,11 @@ install script
 <img src="oreoreEHR/img/libpath.png" height="500" alt= "title"/>  
 
 
-+++
-
-@snap[west span-50]
-<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
-@snapend
-
-@snap[east span-50]
-<img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
-@snapend
-
-+++
-### 予約システム
-
-@snap[west span-50]
-<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
-@snapend
-
-@snap[east span-50]
-<img src="oreoreEHR/img/shiny_yoyaku2.gif" height="500" alt= "title"/>  
-@snapend
 
 
-+++ 
-### yoyaku
-
-<div id="column1">
-<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>   
-</div>
-<div id="column2">
-<img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
-</div>
 
 
 ---?color=#6b8e23
-### <font id='p_120_normal'>1980</font><font id='p_normal'>年に</font><font id='p_120_normal'>Ludwig</font><font id='p_normal'>が</font><font id='p_120_normal'>NASH</font><font id='p_normal'>を提唱し</font><br><font id='p_120_normal'>40</font><font id='p_normal'>年近く経ちました.<br>私達、肝臓内科医が学んだことは…</font>
 
 
 

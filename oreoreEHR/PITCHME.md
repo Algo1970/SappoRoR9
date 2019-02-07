@@ -19,8 +19,10 @@
 
 @snap[east span-50]
 - @fa[twitter fa-2x twitter-blue] @R_beginner
-- 職業
-- 
+- 仕事：内科開業医
+- 趣味：マラソン、Rで電子カルテをモニョモニョすること、Rの環境構築 
+- 好きな開発環境、エディター:Rstudio, neovim
+- 好きなRstudioショートカット：shift + alt + 矢印, alt + 矢印
 @snapend
 
 +++

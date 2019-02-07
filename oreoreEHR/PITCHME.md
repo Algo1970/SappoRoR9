@@ -35,14 +35,14 @@
 
 
 +++
-### Rstudioの設定
+### 診察待ち患者アラート
 
-<img src="img/global_options1.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/alert.png" height="500" alt= "title"/>  
 
 +++
-### Rstudioのペインレイアウト
+### 体重経過と必要栄養量
 
-<img src="img/pane_layout.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
 
 +++
 ### Rstudioのテーマ

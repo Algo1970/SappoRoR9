@@ -4,15 +4,13 @@
 ### 自己紹介
 
 - @fa[twitter fa-2x twitter-blue] @R_beginner
-- Rパッケージのインストール（結構長い）
-- Rstudioの設定（フォントサイズ、エディターテーマ、ペインレイアウト、キーバインド）
-- r.snippetsの設定（.R/snippets/）
 
-+++
-### Summer @emoji[sunny] + @emoji[sunflower] = happy @emoji[honeybee]
 
-<i class="em em-heart"></i>
-<i class="em em-gift"></i>
+---
+### shinyによる電子カルテ補助システム
+
+- 電子カルテに欲しい機能はRでつくる
+- shiny-serverにのせて、24時間運用、<br>（Rstudioの邪魔にならない）
 
 +++
 ### <i class="em em-gift">test</i>
@@ -113,9 +111,6 @@
 
 
 
-
-+++
-### Rstudioのスニペット
 
 ---
 ### 今日はDockerとRstudio設定の話

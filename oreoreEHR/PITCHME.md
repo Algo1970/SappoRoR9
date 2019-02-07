@@ -174,7 +174,7 @@ install script
 @snapend
 
 +++
-### <i class="em em-gift">test</i>
+### 予約システム
 
 @snap[west span-50]
 <img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
@@ -190,7 +190,7 @@ install script
 
 
 +++ 
-### <font id='p_120_orange'>NAFLD</font> + HCC症例(70歳代、男性)
+### 
 
 <div id="column1">
 <img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>   

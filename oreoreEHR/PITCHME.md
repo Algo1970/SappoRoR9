@@ -10,22 +10,9 @@
 4. ここ1年の変更点
 5. shiny-serverの導入・注意点
 
----
-### 自己紹介
 
-@snap[west span-50]
-<img src="oreoreEHR/img/dog_circle.png" height="250" alt= "title"/>  
-@snapend
 
-@snap[east span-50]
-- @fa[twitter fa-2x twitter-blue] @R_beginner
-- 仕事：内科開業医
-- 趣味：マラソン、Rで電子カルテをモニョモニョすること、Rの環境構築 
-- 好きな開発環境、エディター:Rstudio, neovim
-- 好きなRstudioショートカット：shift + alt + 矢印, alt + 矢印
-@snapend
 
-+++
 ### 自己紹介
 
 <div id="column1">
@@ -104,7 +91,7 @@
 <img src="oreoreEHR/img/eGFRplot.png" height="500" alt= "title"/>  
 
 +++
-### 患者B「インフルエンザのワクチンは<br>いつ摂取したら良いですか？」
+### 患者B「インフルエンザのワクチンは<br>いつ接種したら良いですか？」
 
 +++
 ### Flu患者数

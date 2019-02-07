@@ -125,14 +125,33 @@
 ### 参照クラスの例
 
 ```
-
+refclass
 ```
 
 +++
 ### shiny用スニペットの例
 
+```
+snippet
+```
 
+---
+### shiny-serverの導入
 
+```
+install script
+```
+
+`srv/shiny-server/sample-apps/`フォルダに`ui.R`と`server.R`の入ったフォルダごと入れる。
+`<ip address>:3838/sample-apps`にアクセスするだけ。
+
+---
+### shiny-serverの注意点
+
+1. sample-appsのアクセス権限、chmod -R 777 hoghoge
+2. 環境変数、スコープ
+3. libpathの違い
+4. マルチプロセスは、他サイトを参照。少人数なら同じアプリをフォルダ名変えて作成して対応
 
 
 

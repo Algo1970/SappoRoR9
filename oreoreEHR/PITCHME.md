@@ -95,10 +95,17 @@
 
 <img src="oreoreEHR/img/pyramid_DM.jpg" height="500" alt= "title"/>  
 
-+++?image=oreoreEHR/img/Rmd_HCV.png
++++?image=oreoreEHR/img/Rmd_HCV.png&size=contain
 ### Rmarkdown
 
 <img src="oreoreEHR/img/Rmd_HCV.png" height="500" alt= "title"/>  
+
+
++++?image=oreoreEHR/img/Rmd_HCV.png&size=cover
+### Rmarkdown
+
++++?image=oreoreEHR/img/Rmd_HCV.png&size=auto 90%
+### Rmarkdown
 
 +++
 ### Rmarkdowm2

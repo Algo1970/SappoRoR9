@@ -116,21 +116,12 @@
 
 +++?image=oreoreEHR/img/Rmd_HCV.png&size=contain
 
-+++?image=oreoreEHR/img/Rmd_HCV.png&size=auto 90%
-
 +++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
-### Rmarkdowm2
-
-
 
 +++
 ### yoyaku
 
 <img src="oreoreEHR/img/yoyaku.png" height="500" alt= "title"/>  
-
-
-
-
 
 
 ---

@@ -37,7 +37,7 @@
 +++
 ### 診察待ち患者アラート
 
-<img src="oreoreEHR/img/alert.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/alert.png" height="300" alt= "title"/>  
 
 +++
 ### 体重経過と必要栄養量

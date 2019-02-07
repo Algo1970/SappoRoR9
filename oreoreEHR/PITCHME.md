@@ -107,7 +107,7 @@
 +++?image=oreoreEHR/img/Rmd_HCV.png&size=auto 90%
 ### Rmarkdown
 
-+++?image=oreoreEHR/img/Rmd_HEV.png&size=cover
++++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 ### Rmarkdowm2
 
 <img src="oreoreEHR/img/Rmd_HEV.png" height="500" alt= "title"/>  

@@ -166,16 +166,23 @@ install script
 ### <i class="em em-gift">test</i>
 
 @snap[west span-50]
-### Q: How can you tell if a computer @color[#e49436](geek) is an extrovert?
 <img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
 @snapend
 
 @snap[east span-50]
-#### A: They stare at **your shoes** when you talk instead of their own<sup>1</sup>.
 <img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
 @snapend
 
++++
+### <i class="em em-gift">test</i>
 
+@snap[west span-50]
+<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
+@snapend
+
+@snap[east span-50]
+<img src="oreoreEHR/img/shiny_yoyaku2.gif" height="500" alt= "title"/>  
+@snapend
 
 
 

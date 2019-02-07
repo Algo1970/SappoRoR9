@@ -14,7 +14,7 @@
 ### 自己紹介
 
 @snap[west span-50]
-<img src="oreoreEHR/img/dog_circle.png" height="0" alt= "title"/>  
+<img src="oreoreEHR/img/dog_circle.png" height="250" alt= "title"/>  
 @snapend
 
 @snap[east span-50]
@@ -194,12 +194,8 @@ install script
 @snapend
 
 
-
-
-
-
 +++ 
-### 
+### yoyaku
 
 <div id="column1">
 <img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>   
@@ -207,14 +203,6 @@ install script
 <div id="column2">
 <img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
 </div>
-
-
-
-
-
-
-
-
 
 
 ---?color=#6b8e23

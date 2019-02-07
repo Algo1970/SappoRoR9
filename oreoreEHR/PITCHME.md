@@ -210,20 +210,18 @@ snippet msClassBase
 	library(RODBC)${0}
 	# Rsqlserver class----
 	Rsqlserver = setRefClass("Rsqlserver",
-														fields = list(dsn = "character",
-																					uid = "character",
-																					pwd = "character"
-														),
-														methods = list(
-															initialize = function(dsn = "hoge_server", uid = "hoge_id", pwd = "hoge_pass"){
-																.self\$dsn = dsn
-																.self\$uid = uid
-																.self\$pwd = pwd
-															},
-															connect = function(){
-																RODBC::odbcConnect(.self\$dsn, .self\$uid, .self\$pwd)
-															}
-														))
+				fields = list(dsn = "character",
+					uid = "character",
+					pwd = "character"),
+				methods = list(
+					initialize = function(dsn = "hoge_server", uid = "hoge_id", pwd = "hoge_pass"){
+						.self\$dsn = dsn
+						.self\$uid = uid
+						.self\$pwd = pwd},
+					connect = function(){
+						RODBC::odbcConnect(.self\$dsn, .self\$uid, .self\$pwd)
+					}
+				))
 ```
 
 ---

@@ -37,7 +37,7 @@
 +++
 ### 診察待ち患者アラート
 
-<img src="oreoreEHR/img/alert.png" height="300" alt= "title"/>  
+<img src="oreoreEHR/img/alert.png" height="250" alt= "title"/>  
 
 +++
 ### 体重経過と必要栄養量
@@ -45,9 +45,73 @@
 <img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
 
 +++
-### Rstudioのテーマ
+### eGFRプロット
 
-<img src="img/rstudio_theme.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/eGFRplot.png" height="500" alt= "title"/>  
+
++++
+### Flu患者数
+
+<img src="oreoreEHR/img/fluplot.png" height="500" alt= "title"/>  
+
++++
+### library path
+
+<img src="oreoreEHR/img/libpath.png" height="500" alt= "title"/>  
+
++++
+### patient map
+
+<img src="oreoreEHR/img/ms_map.png" height="500" alt= "title"/>  
+
++++
+### clinic map
+
+<img src="oreoreEHR/img/map_hp.png" height="500" alt= "title"/>  
+
++++
+### mayoPBCmodel
+
+<img src="oreoreEHR/img/mayoPBCmodel.png" height="500" alt= "title"/>  
+
++++
+### MELD
+
+<img src="oreoreEHR/img/MELD.png" height="500" alt= "title"/>  
+
++++
+### predict Liver Transplant
+
+<img src="oreoreEHR/img/predict_LT.png" height="500" alt= "title"/>  
+
++++
+### pyramid
+
+<img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
+
++++
+### pyramid DM
+
+<img src="oreoreEHR/img/pyramid_DM.jpg" height="500" alt= "title"/>  
+
++++
+### Rmarkdown
+
+<img src="oreoreEHR/img/Rmd_HCV.png" height="500" alt= "title"/>  
+
++++
+### Rmarkdowm2
+
+<img src="oreoreEHR/img/Rmd_HEV.png" height="500" alt= "title"/>  
+
++++
+### yoyaku
+
+<img src="oreoreEHR/img/yoyaku.png" height="500" alt= "title"/>  
+
+
+
+
 
 
 +++

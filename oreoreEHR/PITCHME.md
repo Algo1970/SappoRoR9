@@ -23,6 +23,17 @@
 - 
 @snapend
 
++++
+### 自己紹介
+
+<div id="column1">
+<img src="oreoreEHR/img/dog_circle.png" height="250" alt= "title"/>  
+</div>
+<div id="column2">
+- @fa[twitter fa-2x twitter-blue] @R_beginner
+- 職業
+- 
+</div>
 
 
 ---

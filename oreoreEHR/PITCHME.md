@@ -117,11 +117,10 @@
 <img src="oreoreEHR/img/Rmd_HCV.png" height="500" alt= "title"/>  
 
 
-+++?image=oreoreEHR/img/Rmd_HCV.png&size=cover
-### Rmarkdown
+
 
 +++?image=oreoreEHR/img/Rmd_HCV.png&size=auto 90%
-### Rmarkdown
+
 
 +++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 ### Rmarkdowm2
@@ -183,7 +182,6 @@ install script
 
 
 +++
-### <i class="em em-gift">test</i>
 
 @snap[west span-50]
 <img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  

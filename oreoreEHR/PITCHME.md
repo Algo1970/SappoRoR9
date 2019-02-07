@@ -55,10 +55,6 @@
 
 <img src="oreoreEHR/img/fluplot.png" height="500" alt= "title"/>  
 
-+++
-### library path
-
-<img src="oreoreEHR/img/libpath.png" height="500" alt= "title"/>  
 
 +++
 ### patient map
@@ -160,6 +156,10 @@ install script
 3. libpathの違い
 4. マルチプロセスは、他サイトを参照。少人数なら同じアプリをフォルダ名変えて作成して対応
 
++++
+### library path
+
+<img src="oreoreEHR/img/libpath.png" height="500" alt= "title"/>  
 
 
 +++

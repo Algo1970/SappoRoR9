@@ -226,9 +226,14 @@ snippet msClassBase
 
 ---
 ### shiny-serverの導入
-
+`shinyserver.sh`
 ```
-install script
+#!/bin/sh
+
+# install shiny-server
+sudo apt-get install gdebi-core
+wget https://download3.rstudio.org/ubuntu-14.04/x86_64/shiny-server-1.5.9.923-amd64.deb
+sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ```
 
 `srv/shiny-server/sample-apps/`フォルダに`ui.R`と`server.R`の入ったフォルダごと入れる。

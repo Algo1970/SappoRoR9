@@ -165,21 +165,16 @@ install script
 +++
 ### <i class="em em-gift">test</i>
 
-@snap[north-west span-40]
+@snap[west span-50]
 ### Q: How can you tell if a computer @color[#e49436](geek) is an extrovert?
+<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
 @snapend
 
-@snap[north-east span-50]
+@snap[east span-50]
 #### A: They stare at **your shoes** when you talk instead of their own<sup>1</sup>.
+<img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
 @snapend
 
-@snap[south span-100]
-@size[0.5em](1. Any similarity to actual persons, living or dead, is purely coincidental!)
-@snapend
-
-@snap[east]
-@fa[smile-o fa-5x]
-@snapend
 
 
 
@@ -191,13 +186,10 @@ install script
 ### <font id='p_120_orange'>NAFLD</font> + HCC症例(70歳代、男性)
 
 <div id="column1">
-<img src="img_NAFLD/HCC_US1.png" width="393" height="312" />  
+<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>   
 </div>
 <div id="column2">
-<p id="p_80"> 6年前より高血圧症にて加療。初診時、腹部USにて脂肪肝を指摘。
-<br><br>3年前の腹部USにて、肝S5：直径20mmの肝細胞癌を認め、ラジオ波焼灼術施行。
-<br><br>以後、再発無く経過。
-</p>
+<img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
 </div>
 
 

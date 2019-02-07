@@ -106,7 +106,7 @@
 +++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 ### Rmarkdowm2
 
-<img src="oreoreEHR/img/Rmd_HEV.png" height="500" alt= "title"/>  
+
 
 +++
 ### yoyaku

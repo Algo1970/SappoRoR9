@@ -13,7 +13,16 @@
 ---
 ### 自己紹介
 
+@snap[west span-50]
+<img src="oreoreEHR/img/dog_circle.png" height="500" alt= "title"/>  
+@snapend
+
+@snap[east span-50]
 - @fa[twitter fa-2x twitter-blue] @R_beginner
+- 職業
+- 
+@snapend
+
 
 
 ---

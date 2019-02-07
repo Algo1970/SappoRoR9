@@ -62,12 +62,12 @@
 +++
 ### patient map
 
-<img src="oreoreEHR/img/ms_map.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/ms_map.jpg" height="500" alt= "title"/>  
 
 +++
 ### clinic map
 
-<img src="oreoreEHR/img/map_hp.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/map_hp.jpg" height="500" alt= "title"/>  
 
 +++
 ### mayoPBCmodel

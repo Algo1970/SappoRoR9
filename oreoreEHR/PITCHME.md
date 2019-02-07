@@ -1,5 +1,15 @@
 ### <img src="oreoreEHR/img/oreoreEHR.png" height="600" alt= "title"/>  
 
+
+---
+### 本日の内容
+
+1. 自己紹介
+2. 電子カルテ補助システムについて
+3. 実際のshinyアプリ
+4. ここ1年の変更点
+5. shiny-serverの注意点
+
 ---
 ### 自己紹介
 
@@ -15,7 +25,12 @@
 +++
 ### 当院のネットワーク構成
 
-<img src="oreoreEHR/img/Clinic_Network.png" height="0" alt= "title"/>  
+<img src="oreoreEHR/img/Clinic_Network.png" height="500" alt= "title"/>  
+
++++
+### Rで接続
+
+シェーマ 
 
 ---
 ### shiny apps
@@ -101,7 +116,22 @@
 
 
 ---
-### 今日はDockerとRstudio設定の話
+### 最近の変更点
+
+- DB接続、テーブルごとの前処理までをRの参照クラスで書き換え
+- shiny用snippet作成で、開発効率アップ
+
++++
+### 参照クラスの例
+
+```
+
+```
+
++++
+### shiny用スニペットの例
+
+
 
 
 
@@ -131,10 +161,6 @@
 
 <img src="img/docker-logo.png" height="400" alt= "title"/>
 
-+++
-### コンテナって何ですか？
-
-<img src="img/container.png" height="400" alt= "title"/>
 
 ---
 ### 本日の内容

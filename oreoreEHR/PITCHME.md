@@ -72,17 +72,17 @@
 +++
 ### mayoPBCmodel
 
-<img src="oreoreEHR/img/mayoPBCmodel.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/mayoPBCmodel.png" height="300" alt= "title"/>  
 
 +++
 ### MELD
 
-<img src="oreoreEHR/img/MELD.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/MELD.png" height="300" alt= "title"/>  
 
 +++
 ### predict Liver Transplant
 
-<img src="oreoreEHR/img/predict_LT.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
 
 +++
 ### pyramid

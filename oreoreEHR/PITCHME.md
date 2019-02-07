@@ -56,9 +56,16 @@
 ### shiny apps
 
 +++
+### 画面いっぱいにカルテ表示すると待ち患者が見えない…
+
++++
 ### 診察待ち患者アラート
 
 <img src="oreoreEHR/img/alert.png" height="250" alt= "title"/>  
+
++++
+### 体重の経過が見にくい
+### 必要栄養量の計算が面倒
 
 +++
 ### 体重経過と必要栄養量
@@ -66,15 +73,23 @@
 <img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
 
 +++
+### 糖尿病患者A「薬を辞めてもいいですか？」
+
++++
 ### eGFRプロット
 
 <img src="oreoreEHR/img/eGFRplot.png" height="500" alt= "title"/>  
+
++++
+### 患者B「インフルエンザのワクチンは<br>いつ摂取したら良いですか？」
 
 +++
 ### Flu患者数
 
 <img src="oreoreEHR/img/fluplot.png" height="500" alt= "title"/>  
 
++++
+### 患者C「近くによい皮膚科はありますか？」
 
 +++
 ### patient map
@@ -85,6 +100,9 @@
 ### clinic map
 
 <img src="oreoreEHR/img/map_hp.jpg" height="500" alt= "title"/>  
+
++++
+### 患者D「私の肝臓は大丈夫でしょうか？」
 
 +++
 ### mayoPBCmodel
@@ -102,6 +120,9 @@
 <img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
 
 +++
+### 会計士「新患が減っていますが、10年後は大丈夫ですか？」
+
++++
 ### pyramid
 
 <img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
@@ -112,11 +133,18 @@
 <img src="oreoreEHR/img/pyramid_DM.jpg" height="500" alt= "title"/>  
 
 +++
+### 患者G「C型肝炎の薬は、どれぐらい効くの？」
+### 患者H「C型肝炎の薬は、どう違うのですか？」
+
++++
 ### Rmarkdownで患者説明資料
 
 +++?image=oreoreEHR/img/Rmd_HCV.png&size=contain
 
 +++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
+
++++
+### 患者G「どうして豚肉は生で食べちゃいけないの？」
 
 +++
 ### yoyaku

@@ -20,11 +20,11 @@
 <img src="oreoreEHR/img/dog_circle.png" height="250" alt= "title"/>  
 </div>
 <div id="column2">
-- @fa[twitter fa-2x twitter-blue] @R_beginner
-- 仕事：内科開業医
-- 趣味：マラソン、Rで電子カルテをモニョモニョすること、Rの環境構築 
-- 好きな開発環境、エディター:Rstudio, neovim
-- 好きなRstudioショートカット：shift + alt + 矢印, alt + 矢印
+@fa[twitter fa-2x twitter-blue] @R_beginner <br>
+仕事：内科開業医 <br>
+趣味：マラソン、Rで電子カルテをモニョモニョすること <br>
+好きな開発環境、エディター:Rstudio, neovim <br>
+好きなRstudioショートカット：shift + alt + 矢印, alt + 矢印
 </div>
 
 

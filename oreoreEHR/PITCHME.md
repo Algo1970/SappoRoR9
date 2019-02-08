@@ -37,12 +37,12 @@
 +++
 ### 当院のネットワーク構成
 
-<img src="oreoreEHR/img/Clinic_Network.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/Clinic_Network2.png" height="500" alt= "title"/>  
 
 +++
 ### Rで接続
 
-シェーマ 
+<img src="oreoreEHR/img/RODBC.png" height="300" alt= "title"/>  
 
 ---
 ### shiny apps

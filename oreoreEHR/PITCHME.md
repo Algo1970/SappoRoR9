@@ -60,8 +60,15 @@
 
 <img src="oreoreEHR/img/RODBC.png" height="300" alt= "title"/>  
 
+
+
 ---
-### shiny apps
+### <font id='p_title'>shiny apps</font>
+
+<img src="oreoreEHR/img/shiny_site_book.png" height="500" alt= "title"/>  
+
+
+
 
 +++
 ### 画面いっぱいにカルテ表示すると待ち患者が見えない…

@@ -24,6 +24,10 @@ serif ;""を付けない
   font-size: 100%;
   font-family: Yu Gothic Medium;
 }
+#p_main {
+  font-size: 80%;
+  font-family: Yu Gothic Medium;
+}
 
 
 #p_bold_olive {

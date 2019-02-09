@@ -111,7 +111,7 @@ serif ;""を付けない
 #p_bold_olive {
   font-size: 100%;
   font-weight: bolder;
-  font-family:"TakaoMincho";
+  font-family: serif;
   color: #6b8e23;
 }
 

@@ -26,6 +26,14 @@ serif ;""を付けない
   font-family: Open Sans;
   color: #6b8e23;
 }
+#p_bold_olive2 {
+  font-family: SF Optimized;
+  color: #6b8e23;
+}
+#p_bold_olive3 {
+  font-family: Osaka;
+  color: #6b8e23;
+}
 
 #p_small_gray {
   font-size : 20px ;

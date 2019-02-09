@@ -108,6 +108,13 @@ serif ;""を付けない
   font-family:"TakaoMincho";
   color: #6b8e23;
 }
+#p_bold_olive {
+  font-size: 100%;
+  font-weight: bolder;
+  font-family:"TakaoMincho";
+  color: #6b8e23;
+}
+
 #p_80 {
   font-size: 80%;
 }

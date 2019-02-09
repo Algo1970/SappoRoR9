@@ -16,10 +16,10 @@
 ---
 ### 自己紹介
 
-<div id="column1">
+<div id="column300">
 <img src="oreoreEHR/img/dog_circle.png" height="250" alt= "title"/>  
 </div>
-<div id="column2">
+<div id="column660">
 @fa[twitter fa-2x twitter-blue] @R_beginner <br>
 仕事：内科開業医 <br>
 趣味：<br>マラソン、R、電子カルテハッキング <br>

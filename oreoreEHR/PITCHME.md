@@ -14,7 +14,7 @@
 
 
 ---
-### 自己紹介
+### <font id='p_title'>自己紹介</font>自己紹介
 
 <div id="column300">
 <img src="oreoreEHR/img/dog_circle.png" height="250" alt= "title"/>  

@@ -118,19 +118,6 @@
 <img src="oreoreEHR/img/fluplot.png" height="500" alt= "title"/>  
 
 +++
-### 患者C「近くによい皮膚科はありますか？」
-
-+++
-### patient map
-
-<img src="oreoreEHR/img/ms_map.jpg" height="500" alt= "title"/>  
-
-+++
-### clinic map
-
-<img src="oreoreEHR/img/map_hp.jpg" height="500" alt= "title"/>  
-
-+++
 ### 患者D「私の肝臓は大丈夫でしょうか？」
 
 +++
@@ -177,6 +164,30 @@
 
 +++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 
+---
+### 患者住所テーブル
+
+- local networkのため、地図表示ができず、患者位置情報を利用できない。
+
+-> 自前MAP server
+
++++
+### 
+
+<img src="oreoreEHR/img/OpenMapTile.jpg" height="500" alt= "title"/> 
+
++++
+### 患者C「近くによい皮膚科はありますか？」
+
++++
+### patient map
+
+<img src="oreoreEHR/img/ms_map.jpg" height="500" alt= "title"/>  
+
++++
+### clinic map
+
+<img src="oreoreEHR/img/map_hp.jpg" height="500" alt= "title"/>  
 
 
 ---

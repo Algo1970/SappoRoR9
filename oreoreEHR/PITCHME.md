@@ -172,9 +172,12 @@
 -> 自前MAP server
 
 +++
-### 
+### 自前マップサーバーを立てよう
 
 <img src="oreoreEHR/img/OpenMapTile.jpg" height="500" alt= "title"/> 
+
+<p id="p_small_gray">https://openmaptiles.com/</p>
+
 
 +++
 ### 患者C「近くによい皮膚科はありますか？」

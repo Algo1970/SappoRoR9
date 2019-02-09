@@ -180,10 +180,10 @@
 
 
 +++
-### 患者C「近くによい皮膚科はありますか？」
+### <fong id='p_bold_olive'>患者C「近くによい皮膚科はありますか？」</font>
 
 +++
-### patient map
+### <fong id='p_bold_olive'>patient map</font>
 
 <img src="oreoreEHR/img/ms_map.jpg" height="500" alt= "title"/>  
 

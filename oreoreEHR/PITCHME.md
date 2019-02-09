@@ -2,19 +2,19 @@
 
 
 ---
-### <font id='p_120'>本日の内容</font>本日の内容
+### <font id='p_title'>本日の内容</font>
 
-1. 自己紹介
-2. 電子カルテ補助システムについて
-3. 実際のshinyアプリ
-4. ここ1年の変更点
+1. <font id='p_title'>自己紹介</font>
+2. <font id='p_title'>電子カルテ補助システムについて</font>
+3. <font id='p_title'>実際のshinyアプリ</font>
+4. <font id='p_title'>ここ1年の変更点</font>
 5. shiny-serverの導入・注意点
 
 
 
 
 ---
-### <font id='p_title'>自己紹介</font>自己紹介
+### <font id='p_title'>自己紹介</font>
 
 <div id="column300">
 <img src="oreoreEHR/img/dog_circle.png" height="250" alt= "title"/>  

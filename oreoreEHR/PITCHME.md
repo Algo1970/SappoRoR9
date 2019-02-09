@@ -63,7 +63,7 @@
 
 
 ---
-### <font id='p_title'>shiny apps</font>
+### <font id='p_title'>shiny appsの作り方</font>
 
 <img src="oreoreEHR/img/shiny_site_book.png" height="500" alt= "title"/>  
 

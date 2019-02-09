@@ -181,6 +181,9 @@
 
 +++
 ### <fong id='p_bold_olive'>患者C「近くによい皮膚科はありますか？」</font>
+### <fong id='p_bold_olive2'>「近くに皮膚科はありますか？」</font>
+### <fong id='p_bold_olive3'>「近くに皮膚科はありますか？」</font>
+
 
 +++
 ### <fong id='p_bold_olive'>patient map</font>

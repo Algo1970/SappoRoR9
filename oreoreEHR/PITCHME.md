@@ -127,16 +127,17 @@ wget https://download3.rstudio.org/ubuntu-14.04/x86_64/shiny-server-1.5.9.923-am
 sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ```
 
++++
 ### <font id='p_title'>shinyアプリの保存先</font>
 
 <img src="oreoreEHR/img/ranger_srv.gif" height="500" alt= "title"/>  
 
 +++
-### <font id='p_title'>ブラウザでアクセス</font>
+### <font id='p_title'>アプリに接続</font>
 
-`IPaddresss:3838/sample-apps`にアクセスするだけ。
+`IPaddresss:3838/sample-apps/アプリのフォルダ名`にブラウザでアクセスするだけ。
 
-<img src="oreoreEHR/img/shiny_top.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/shiny_libpath.jpg" height="500" alt= "title"/>  
 
 
 ---

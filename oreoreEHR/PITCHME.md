@@ -309,6 +309,9 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 +++?color=#6b8e23
 ### まとめ
 
+@snap[east span-60]
+@quote[I think I'll have a H<sub>2</sub>O too](Chemist #2 RIP<sup>1</sup>)
+@snapend
 
 ---
 ### その他

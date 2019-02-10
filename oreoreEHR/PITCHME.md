@@ -248,8 +248,8 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/pyramid_DM.jpg" height="500" alt= "title"/>  
 
 +++
-### 患者G「C型肝炎の薬は、どれぐらい効くの？」
-### 患者H「C型肝炎の薬は、どう違うのですか？」
+### <font id='p_title'>患者G「C型肝炎の薬は、どれぐらい効くの？」</font>
+### <font id='p_title'>患者H「C型肝炎の薬は、どう違うのですか？」</font>
 
 +++
 ### <font id='p_title'>Rmarkdownで患者説明資料</font>
@@ -258,20 +258,19 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 
 
 +++
-### 患者G「どうして豚肉は生で食べちゃいけないの？」
-
+### <font id='p_title'>患者G「どうして豚肉は生で食べちゃいけないの？」</font>
 
 +++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 
 ---
-### 患者住所テーブル
+### <font id='p_title'>患者住所テーブル</font>
 
 - local networkのため、地図表示ができず、患者位置情報を利用できない。
 
 -> 自前MAP server
 
 +++
-### 自前マップサーバーを立てよう
+### <font id='p_title'>自前マップサーバーを立てよう</font>
 
 <img src="oreoreEHR/img/OpenMapTile.jpg" height="500" alt= "title"/> 
 
@@ -283,7 +282,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/ms_map.jpg" height="500" alt= "title"/>  
 
 +++
-### clinic map
+### <fong id='p_bold_olive'>clinic map</font>
 
 <img src="oreoreEHR/img/map_hp.jpg" height="500" alt= "title"/>  
 
@@ -293,7 +292,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 
 
 ---
-### SappoRoR#5からの変更点
+### <fong id='p_bold_olive'>SappoRoR#5からの変更点</font>
 
 - DB接続、テーブルごとの前処理までをRの参照クラスで書き換え
 - shiny用snippet作成で、開発効率アップ

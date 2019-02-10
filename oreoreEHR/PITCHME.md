@@ -163,7 +163,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### <font id='p_title'>当院で使用中のshinyアプリ</font>
 
 +++
-### 画面いっぱいにカルテ表示すると待ち患者が見えない…
+### <font id='p_title'>画面いっぱいにカルテ表示すると待ち患者が見えない…</font>
 
 +++
 ### <font id='p_title'>診察待ち患者アラート</font>
@@ -209,7 +209,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/eGFRplot.png" height="500" alt= "title"/>  
 
 +++
-### 患者B「インフルエンザのワクチンは<br>いつ接種したら良いですか？」
+### <font id='p_title'>患者B「インフルエンザのワクチンは<br>いつ接種したら良いですか？」</font>
 
 +++
 ### <font id='p_title'>インフルエンザ患者数</font>

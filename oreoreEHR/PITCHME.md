@@ -143,7 +143,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <font id='p_main'>にブラウザでアクセスするだけ。</font>
 
 +++
-### shiny-serverの注意点
+### <font id='p_title'>shiny-serverの注意点</font>
 
 1. <font id='p_title'>sample-appsのアクセス権限</font><br>
 <font id='p_main'>　　chmod -R 777 hoghoge</font>
@@ -158,6 +158,8 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 
 
 ---
+### <font id='p_title'>当院で使用中のshinyアプリ</font>
+
 +++
 ### 画面いっぱいにカルテ表示すると待ち患者が見えない…
 

@@ -4,7 +4,7 @@
 ---
 ### <font id='p_title'>本日の内容</font>
 
-1. <font id='p_main'>自己紹介</font>
+1. <font id='p_title'>自己紹介</font>
 2. <font id='p_title'>電子カルテ補助システムについて</font>
 3. <font id='p_title'>実際のshinyアプリ</font>
 4. <font id='p_title'>ここ1年の変更点</font>
@@ -263,13 +263,6 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/OpenMapTile.jpg" height="500" alt= "title"/> 
 
 <p id="p_small_gray">https://openmaptiles.com/</p>
-
-
-+++
-### <fong id='p_bold_olive'>患者C「近くによい皮膚科はありますか？」</font>
-### <fong id='p_bold_olive2'>「近くに皮膚科はありますか？」</font>
-### <fong id='p_bold_olive3'>「近くに皮膚科はありますか？」</font>
-### <fong id='p_bold_olive4'>「近くに皮膚科はありますか？」</font>
 
 +++
 ### <fong id='p_bold_olive'>patient map</font>

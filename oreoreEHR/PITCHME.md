@@ -39,7 +39,7 @@
 2.  <font id='p_title'>検索機能が貧弱</font>
 3.  <font id='p_title'>各種診断スコア等の計算ができない</font>
 4.  <font id='p_title'>次回予約プログラムが使いにくい</font>
-5.  <font id='p_title'>ローカルネットワークのため、地図を表示できない</font>
+5.  <font id='p_title'>ローカルネットワークのため、<br>地図を表示できない</font>
 <br><font id='p_title'>等など</font>
 
 +++

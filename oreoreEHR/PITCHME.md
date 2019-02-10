@@ -20,11 +20,11 @@
 <img src="oreoreEHR/img/dog_circle.png" height="250" alt= "title"/>  
 </div>
 <div id="column660">
-@fa[twitter fa-2x twitter-blue] @R_beginner <br>
-仕事：内科開業医 <br>
-趣味：<br>マラソン、R、電子カルテハッキング <br>
-好きな開発環境:<br>Rstudio, neovim <br>
-好きなRstudio shortcut：<br>alt + 矢印
+@fa[twitter fa-1x twitter-blue] <font id='p_main'>@R_beginner</font> <br>
+<font id='p_main'>仕事：内科開業医 </font><br>
+<font id='p_main'>趣味：マラソン、R、電子カルテハッキング </font><br><br>
+<font id='p_main'>好きな開発環境:<br>Rstudio, neovim </font><br>
+<font id='p_main'>好きなRstudio shortcut：alt + 矢印</font><br>
 </div>
 
 ---
@@ -35,12 +35,12 @@
 +++
 ### <font id='p_title'>当院の？電子カルテの問題点</font>
 
-- <font id='p_title'>患者ID毎に経時的な情報しか表示できない</font>
-- <font id='p_title'>検索機能が貧弱</font>
-- <font id='p_title'>各種診断スコア等の計算ができない</font>
-- <font id='p_title'>次回予約プログラムが使いにくい</font>
-- <font id='p_title'>ローカルネットワークのため、地図を表示できない</font>
-<font id='p_title'>等など</font>
+1. <font id='p_title'>患者ID毎に経時的な情報しか表示できない</font>
+2. <font id='p_title'>検索機能が貧弱</font>
+3. <font id='p_title'>各種診断スコア等の計算ができない</font>
+4. <font id='p_title'>次回予約プログラムが使いにくい</font>
+5. <font id='p_title'>ローカルネットワークのため、地図を表示できない</font>
+<br><font id='p_title'>等など</font>
 
 +++
 ### <font id='p_title'>これらの問題解決のため、</font>

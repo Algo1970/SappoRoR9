@@ -28,7 +28,7 @@
 </div>
 
 ---
-### とあるRオジサンの日常診療診療の話です。
+### <font id='p_title'>以前SappoRoRで発表した続きです。</font>
 
 +++
 ### <font id='p_title'>当院の？電子カルテの問題点</font>
@@ -41,21 +41,21 @@
 <font id='p_title'>等など</font>
 
 +++
-### これらの問題解決のため、
+### <font id='p_title'>これらの問題解決のため、</font>
 
 +++
-### shinyによる電子カルテ補助システム
+###  <font id='p_title'>shinyによる電子カルテ補助システム</font>
 
 - <font id='p_title'>電子カルテに欲しい機能はR, shinyでつくる</font>
 - <font id='p_title'>shiny-serverにのせて、24時間運用、<br>（Rstudioの邪魔にならない）</font>
 
 +++
-### 当院のネットワーク構成
+### <font id='p_title'>当院のネットワーク構成</font>
 
 <img src="oreoreEHR/img/Clinic_Network2.png" height="500" alt= "title"/>  
 
 +++
-### Rで接続
+### <font id='p_title'>Rで接続</font>
 
 <img src="oreoreEHR/img/RODBC.png" height="300" alt= "title"/>  
 

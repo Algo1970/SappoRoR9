@@ -118,9 +118,9 @@ PTaddress = setRefClass("PTaddress",
 ---
 ### <font id='p_title'>shiny severの導入</font>
 
-1. <font id='p_title'>R, Rstudioのインストール</font>
-2. <font id='p_title'>shinyパッケージのインストール</font>
-3. <font id='p_title'>shiny-serverのインストール </font>
+<font id='p_title'>1. R, Rstudioのインストール</font><br>
+<font id='p_title'>2. shinyパッケージのインストール</font><br>
+<font id='p_title'>3. shiny-serverのインストール </font><br>
 ```
 sudo apt-get install gdebi-core
 wget https://download3.rstudio.org/ubuntu-14.04/x86_64/shiny-server-1.5.9.923-amd64.deb

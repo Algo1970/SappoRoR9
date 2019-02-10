@@ -59,6 +59,52 @@
 
 <img src="oreoreEHR/img/RODBC.png" height="300" alt= "title"/>  
 
++++
+### <font id='p_title'>サーバー内のテーブル</font>
+
+- <font id='p_title'>患者マスター</font>
+- <font id='p_title'>患者住所テーブル</font>
+- <font id='p_title'>病名テーブル</font>
+- <font id='p_title'>採血データテーブル</font>
+- <font id='p_title'>処方・処置テーブル</font>
+- <font id='p_title'>処方・処置テーブル</font>
+
++++
+### <font id='p_title'>データは前処理必要</font>
+
+- <font id='p_title'>前処理用のクラスファイル</font>
+
+```
+# PTaddress class----
+PTaddress = setRefClass("PTaddress",
+                        contains = c("MedicalStation"),
+                        fields = list(data = "data.frame"),
+                        methods = list(
+                          initialize = function(id = NULL){
+                            callSuper()  # 親クラスのコンストラクタを実行
+                            if(!is.null(id)){
+                              sql = paste("select personno, prefecture, city, town, aname 
+                                          from PAddress as P inner join adrs as A on P.jiscode = A.jiscode 
+                                          where personno=", as.character(id), ";")
+                              con = .self$connect()
+                              result = .self$sql2ms(con, sql)
+                              result$personno  = as.numeric(result$personno )
+                              colnames(result)[1] = 'id'
+                              data <<- result
+                            } else if(is.null(id)) {
+                              con = .self$connect()
+                              result = .self$sql2ms(con, "select personno, prefecture, city, town, aname 
+                                                    from PAddress as P inner join adrs as A on P.jiscode = A.jiscode;")
+                              result$personno  = as.numeric(result$personno )
+                              colnames(result)[1] = 'id'
+                              data <<- result
+                            }
+                          }
+                        ))
+# PTaddress methods----
+(address = PTaddress$new(1014))
+(address = PTaddress$new())
+```
 
 
 ---

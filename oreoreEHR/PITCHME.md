@@ -6,9 +6,9 @@
 
 1. <font id='p_title'>自己紹介</font>
 2. <font id='p_title'>電子カルテ補助システムについて</font>
-3. <font id='p_title'>実際のshinyアプリ</font>
-4. <font id='p_title'>ここ1年の変更点</font>
-5. shiny-serverの導入・注意点
+3. <font id='p_title'>shiny-serverの導入・注意点</font>
+4. <font id='p_title'>実際のshinyアプリ</font>
+5. <font id='p_title'>ここ1年の変更点</font>
 
 
 
@@ -109,6 +109,9 @@ PTaddress = setRefClass("PTaddress",
 ```
 
 
+
+
+
 ---
 ### <font id='p_title'>shiny appsの作り方</font>
 
@@ -150,7 +153,6 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 2. <font id='p_title'>環境変数、スコープ</font>
 3. <font id='p_title'>libpathの違い</font>
 4. <font id='p_title'>マルチプロセスは、他サイトを参照</font>
-
 
 
 
@@ -286,65 +288,21 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/map_hp.jpg" height="500" alt= "title"/>  
 
 
+
+
+
+
 ---
-### 最近の変更点
+### SappoRoR#5からの変更点
 
 - DB接続、テーブルごとの前処理までをRの参照クラスで書き換え
 - shiny用snippet作成で、開発効率アップ
-
-+++
-### 参照クラスの例
-
-```
-library(RODBC)
-# Rsqlserver class----
-Rsqlserver = setRefClass("Rsqlserver",
-                          fields = list(dsn = "character",
-                                        uid = "character",
-                                        pwd = "character"
-                          ),
-                          methods = list(
-                            initialize = function(dsn = "hoge_server", uid = "hoge_id", pwd = "hoge_pass"){
-                              .self$dsn = dsn
-                              .self$uid = uid
-                              .self$pwd = pwd
-                            },
-                            connect = function(){
-                              RODBC::odbcConnect(.self$dsn, .self$uid, .self$pwd)
-                            }
-                          ))
-```
-
-+++
-### shiny用スニペットの例
-
-```
-snippet msClassBase
-	library(RODBC)${0}
-	# Rsqlserver class----
-	Rsqlserver = setRefClass("Rsqlserver",
-				fields = list(dsn = "character",
-					uid = "character",
-					pwd = "character"),
-				methods = list(
-					initialize = function(dsn = "hoge_server", uid = "hoge_id", pwd = "hoge_pass"){
-						.self\$dsn = dsn
-						.self\$uid = uid
-						.self\$pwd = pwd},
-					connect = function(){
-						RODBC::odbcConnect(.self\$dsn, .self\$uid, .self\$pwd)
-					}
-				))
-```
+- 自前MapServerで位置情報の可視化
 
 
 
 
 
-
-
-
----?color=#6b8e23
 
 
 

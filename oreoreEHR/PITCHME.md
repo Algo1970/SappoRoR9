@@ -238,12 +238,12 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### <font id='p_title'>会計士「新患が減っていますが、10年後は大丈夫ですか？」</font>
 
 +++
-### <font id='p_title'>pyramid</font>
+### <font id='p_title'>人口ピラミッド</font>
 
 <img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
 
 +++
-### <font id='p_title'>pyramid DM</font>
+### <font id='p_title'>人口ピラミッド（糖尿病患者）</font>
 
 <img src="oreoreEHR/img/pyramid_DM.jpg" height="500" alt= "title"/>  
 

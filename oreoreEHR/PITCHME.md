@@ -134,8 +134,6 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 
 <img src="oreoreEHR/img/sample_folder.jpg" height="400" alt= "title"/>  
 
-
-
 +++
 ### <font id='p_title'>アプリに接続</font>
 
@@ -143,6 +141,20 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 
 <font id='p_title_orange'>IPaddresss:3838/sample-apps/フォルダ名</font><br>
 <font id='p_main'>にブラウザでアクセスするだけ。</font>
+
++++
+### shiny-serverの注意点
+
+1. sample-appsのアクセス権限、chmod -R 777 hoghoge
+2. 環境変数、スコープ
+3. libpathの違い
+4. マルチプロセスは、他サイトを参照
+
+
+
+
+
+
 
 ---
 +++
@@ -322,33 +334,7 @@ snippet msClassBase
 				))
 ```
 
----
-### shiny-serverの導入
-`shinyserver.sh`
-```
-#!/bin/sh
 
-# install shiny-server
-sudo apt-get install gdebi-core
-wget https://download3.rstudio.org/ubuntu-14.04/x86_64/shiny-server-1.5.9.923-amd64.deb
-sudo gdebi shiny-server-1.5.9.923-amd64.deb
-```
-
-`srv/shiny-server/sample-apps/`フォルダに`ui.R`と`server.R`の入ったフォルダごと入れる。
-`<ip address>:3838/sample-apps`にアクセスするだけ。
-
----
-### shiny-serverの注意点
-
-1. sample-appsのアクセス権限、chmod -R 777 hoghoge
-2. 環境変数、スコープ
-3. libpathの違い
-4. マルチプロセスは、他サイトを参照。少人数なら同じアプリをフォルダ名変えて作成して対応
-
-+++
-### library path
-
-<img src="oreoreEHR/img/libpath.png" height="500" alt= "title"/>  
 
 
 

@@ -116,7 +116,7 @@ PTaddress = setRefClass("PTaddress",
 
 
 ---
-### <font id='p_title'>shiny severの導入</font>
+### <font id='p_title'>shiny severのinstall</font>
 
 1. <font id='p_title'>R, Rstudioのインストール</font><br>
 2. <font id='p_title'>shinyパッケージのインストール</font><br>

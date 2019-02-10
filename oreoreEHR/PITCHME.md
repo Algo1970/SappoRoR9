@@ -310,7 +310,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### まとめ
 
 @snap[east span-60]
-@quote[I think I'll have a H<sub>2</sub>O too](Chemist #2 RIP<sup>1</sup>)
+@quote[薬は効いているんですか？](患者A)
 @snapend
 
 ---

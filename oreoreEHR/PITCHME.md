@@ -212,7 +212,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### 患者B「インフルエンザのワクチンは<br>いつ接種したら良いですか？」
 
 +++
-### <font id='p_title'>Flu患者数</font>
+### <font id='p_title'>インフルエンザ患者数</font>
 
 <img src="oreoreEHR/img/fluplot.png" height="500" alt= "title"/>  
 
@@ -235,7 +235,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
 
 +++
-### 会計士「新患が減っていますが、10年後は大丈夫ですか？」
+### <font id='p_title'>会計士「新患が減っていますが、10年後は大丈夫ですか？」</font>
 
 +++
 ### <font id='p_title'>pyramid</font>

@@ -166,12 +166,12 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### 画面いっぱいにカルテ表示すると待ち患者が見えない…
 
 +++
-### 診察待ち患者アラート
+### <font id='p_title'>診察待ち患者アラート</font>
 
 <img src="oreoreEHR/img/alert.png" height="250" alt= "title"/>  
 
 +++
-### 長期処方で予約日が決めにくい
+### <font id='p_title'>長期処方で予約日が決めにくい</font>
 
 +++
 @snap[west span-50]
@@ -192,19 +192,19 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 
 
 +++
-### 体重の経過が見にくい
-### 必要栄養量の計算が面倒
+### <font id='p_title'>体重の経過が見にくい</font>
+### <font id='p_title'>必要栄養量の計算が面倒</font>
 
 +++
-### 体重経過と必要栄養量
+### <font id='p_title'>体重経過と必要栄養量</font>
 
 <img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
 
 +++
-### 糖尿病患者A「薬を辞めてもいいですか？」
+### <font id='p_title'>糖尿病患者A「薬を辞めてもいいですか？」</font>
 
 +++
-### eGFRプロット
+### <font id='p_title'>eGFRプロット</font>
 
 <img src="oreoreEHR/img/eGFRplot.png" height="500" alt= "title"/>  
 
@@ -212,25 +212,25 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### 患者B「インフルエンザのワクチンは<br>いつ接種したら良いですか？」
 
 +++
-### Flu患者数
+### <font id='p_title'>Flu患者数</font>
 
 <img src="oreoreEHR/img/fluplot.png" height="500" alt= "title"/>  
 
 +++
-### 患者D「私の肝臓は大丈夫でしょうか？」
+### <font id='p_title'>患者D「私の肝臓は大丈夫でしょうか？」</font>
 
 +++
-### mayoPBCmodel
+### <font id='p_title'>mayoPBCmodel</font>
 
 <img src="oreoreEHR/img/mayoPBCmodel.png" height="300" alt= "title"/>  
 
 +++
-### MELD
+### <font id='p_title'>MELD</font>
 
 <img src="oreoreEHR/img/MELD.png" height="300" alt= "title"/>  
 
 +++
-### predict Liver Transplant
+### <font id='p_title'>predict Liver Transplant</font>
 
 <img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
 
@@ -238,12 +238,12 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### 会計士「新患が減っていますが、10年後は大丈夫ですか？」
 
 +++
-### pyramid
+### <font id='p_title'>pyramid</font>
 
 <img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
 
 +++
-### pyramid DM
+### <font id='p_title'>pyramid DM</font>
 
 <img src="oreoreEHR/img/pyramid_DM.jpg" height="500" alt= "title"/>  
 
@@ -252,7 +252,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### 患者H「C型肝炎の薬は、どう違うのですか？」
 
 +++
-### Rmarkdownで患者説明資料
+### <font id='p_title'>Rmarkdownで患者説明資料</font>
 
 +++?image=oreoreEHR/img/Rmd_HCV.png&size=contain
 

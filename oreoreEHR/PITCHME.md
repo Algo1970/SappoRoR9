@@ -4,7 +4,7 @@
 ---
 ### <font id='p_title'>本日の内容</font>
 
-1. <font id='p_title'>自己紹介</font>
+1. <font id='p_main'>自己紹介</font>
 2. <font id='p_title'>電子カルテ補助システムについて</font>
 3. <font id='p_title'>実際のshinyアプリ</font>
 4. <font id='p_title'>ここ1年の変更点</font>
@@ -118,9 +118,11 @@ PTaddress = setRefClass("PTaddress",
 ---
 ### <font id='p_title'>shiny severの導入</font>
 
-<font id='p_title'>1. R, Rstudioのインストール</font><br>
-<font id='p_title'>2. shinyパッケージのインストール</font><br>
-<font id='p_title'>3. shiny-serverのインストール </font><br>
+1. <font id='p_title'>1. R, Rstudioのインストール</font><br>
+2. <font id='p_title'>2. shinyパッケージのインストール</font><br>
+3. <font id='p_title'>3. shiny-serverのインストール </font><br>
+
+
 ```
 sudo apt-get install gdebi-core
 wget https://download3.rstudio.org/ubuntu-14.04/x86_64/shiny-server-1.5.9.923-amd64.deb

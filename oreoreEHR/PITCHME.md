@@ -130,7 +130,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 +++
 ### <font id='p_title'>shinyアプリの保存先</font>
 
-<img src="oreoreEHR/img/sample_folder.png" height="300" alt= "title"/>  
+<img src="oreoreEHR/img/sample_folder.jpg" height="400" alt= "title"/>  
 
 
 +++

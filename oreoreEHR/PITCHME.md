@@ -28,7 +28,9 @@
 </div>
 
 ---
-### <font id='p_title'>以前SappoRoRで発表した続きです。</font>
+### <font id='p_title'>電子カルテ補助システムについて</font>
+
+電子カルテの写真？
 
 +++
 ### <font id='p_title'>当院の？電子カルテの問題点</font>
@@ -44,9 +46,9 @@
 ### <font id='p_title'>これらの問題解決のため、</font>
 
 +++
-###  <font id='p_title'>shinyによる電子カルテ補助システム</font>
+###  <font id='p_title'>shinyアプリ</font>
 
-- <font id='p_title'>電子カルテに欲しい機能はR, shinyでつくる</font>
+- <font id='p_title'>電子カルテに欲しい機能はshinyでつくる</font>
 - <font id='p_title'>shiny-serverにのせて、24時間運用、<br>（Rstudioの邪魔にならない）</font>
 
 +++
@@ -113,8 +115,27 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/shiny_site_book.png" height="500" alt= "title"/>  
 
 
+---
+### <font id='p_title'>shiny severの導入</font>
+
+1. <font id='p_title'>R, Rstudioのインストール</font>
+2. <font id='p_title'>shinyパッケージのインストール</font>
+3. <font id='p_title'>shiny-serverのインストール </font>
+```
+sudo apt-get install gdebi-core
+wget https://download3.rstudio.org/ubuntu-14.04/x86_64/shiny-server-1.5.9.923-amd64.deb
+sudo gdebi shiny-server-1.5.9.923-amd64.deb
+```
+
++++
+### <font id='p_title'>ブラウザでアクセス</font>
+
+`IPaddresss:3838`にアクセスするだけ。
+
+<img src="oreoreEHR/img/shiny_top.png" height="500" alt= "title"/>  
 
 
+---
 +++
 ### 画面いっぱいにカルテ表示すると待ち患者が見えない…
 

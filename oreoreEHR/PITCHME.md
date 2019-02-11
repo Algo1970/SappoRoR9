@@ -132,7 +132,7 @@ wget https://download3.rstudio.org/ubuntu-14.04/x86_64/shiny-server-1.5.9.923-am
 sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ```
 
-+++?image=oreoreEHR/img/sample_folder.jpg&size=contain
++++?image=oreoreEHR/img/install_shiny.png&size=contain
 
 
 +++

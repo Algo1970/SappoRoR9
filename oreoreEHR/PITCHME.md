@@ -154,10 +154,10 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 1. <font id='p_title'>sample-appsのアクセス権限</font><br>
 2. <font id='p_title'>libpathの違い</font>
 
-+++?image=oreoreEHR/img/chmod.png&size=contain
++++
 ### <font id='p_title'>ファイルの権限</font>
 
-
+<img src="oreoreEHR/img/chmod.png" height="500" alt= "title"/>  
 
 ---
 ### <font id='p_title'>当院で使用中のshinyアプリ</font>

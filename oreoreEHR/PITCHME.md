@@ -157,7 +157,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 +++
 ### <font id='p_title'>ファイルの権限</font>
 
-<img src="oreoreEHR/img/chmod.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/chmod.png" height="300" alt= "title"/>  
 
 ---
 ### <font id='p_title'>当院で使用中のshinyアプリ</font>

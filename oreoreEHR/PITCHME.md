@@ -152,10 +152,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### <font id='p_title'>shiny-serverの注意点</font>
 
 1. <font id='p_title'>sample-appsのアクセス権限</font><br>
-<font id='p_main'>　sudo chmod -R 777 hoghoge</font>
-2. <font id='p_title'>環境変数、スコープ</font>
-3. <font id='p_title'>libpathの違い</font>
-4. <font id='p_title'>マルチプロセスは、他サイトを参照</font>
+2. <font id='p_title'>libpathの違い</font>
 
 +++?image=oreoreEHR/img/chmod.png&size=contain
 
@@ -322,7 +319,14 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 - リモートログオンクライアントで、画像サーバー、駐車場モニター、Rstudioサーバーの管理
 
 
++++
+### <font id='p_title'>shiny-serverの注意点</font>
 
+1. <font id='p_title'>sample-appsのアクセス権限</font><br>
+<font id='p_main'>　sudo chmod -R 777 hoghoge</font>
+2. <font id='p_title'>環境変数、スコープ</font>
+3. <font id='p_title'>libpathの違い</font>
+4. <font id='p_title'>マルチプロセスは、他サイトを参照</font>
 
 
 

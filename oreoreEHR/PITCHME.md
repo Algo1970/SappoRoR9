@@ -166,6 +166,10 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 
 <img src="oreoreEHR/img/ggplot_teest.png" height="500" alt= "title"/>  
 
++++
+### <font id='p_title'>Disconnected from the server</font>
+
+<img src="oreoreEHR/img/shiny_error.png" height="400" alt= "title"/> 
 
 +++
 ### <font id='p_title'>library path</font>

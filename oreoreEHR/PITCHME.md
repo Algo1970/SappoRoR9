@@ -154,6 +154,8 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 1. <font id='p_title'>sample-appsのアクセス権限</font><br>
 2. <font id='p_title'>libpathの違い</font>
 
++++?image=oreoreEHR/img/permission.gif&size=contain
+
 +++
 ### <font id='p_title'>ファイルの権限</font>
 

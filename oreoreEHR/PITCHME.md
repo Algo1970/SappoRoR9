@@ -166,6 +166,11 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 
 <img src="oreoreEHR/img/libpaths.png" height="503" alt= "title"/>  
 
++++
+### <font id='p_title'>shinyで.libPaths()</font>
+
+<img src="oreoreEHR/img/libpath.png" height="500" alt= "title"/>  
+
 ---
 ### <font id='p_title'>当院で使用中のshinyアプリ</font>
 

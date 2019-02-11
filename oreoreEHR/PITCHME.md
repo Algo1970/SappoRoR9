@@ -162,9 +162,9 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/chmod.png" height="209" alt= "title"/>  
 
 +++
-### <font id='p_title'>ggplot2のshinyアプリ</font>
+### <font id='p_title'>サンプルアプリ</font>
 
-<img src="oreoreEHR/img/ggplot_teest.png" height="503" alt= "title"/>  
+<img src="oreoreEHR/img/ggplot_teest.png" height="500" alt= "title"/>  
 
 
 +++

@@ -155,7 +155,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 2. <font id='p_title'>libpathの違い</font>
 
 +++?image=oreoreEHR/img/chmod.png&size=contain
-
+### <font id='p_title'>ファイルの権限</font>
 
 
 

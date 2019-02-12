@@ -210,20 +210,12 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### <font id='p_title'>長期処方で予約日が決めにくい</font>
 
 +++
-@snap[west span-50]
+
 <img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
-@snapend
-@snap[east span-50]
-<img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
-@snapend
 
 +++
-@snap[west span-50]
-<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
-@snapend
-@snap[east span-50]
-<img src="oreoreEHR/img/shiny_yoyaku2.gif" height="500" alt= "title"/>  
-@snapend
+
+<img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
 
 
 

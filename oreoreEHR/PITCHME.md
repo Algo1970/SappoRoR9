@@ -315,6 +315,18 @@ wget -c https://openmaptiles.com/download/WyJhMjRlMmNhNi04OGQ2LTQ3NGMtOTg0Yi1jZD
 sudo docker run --rm -it -v $(pwd):/data -p 8080:80 klokantech/openmaptiles-server
 ```
 
+
++++
+### <font id='p_title'>leafletにaddTilesで追加</font>
+
+```
+leaflet::leaflet() %>% 
+  addTiles( urlTemplate = "http://192.168.XXX.XXX:8080/styles/osm-bright/{z}/{x}/{y}.png") %>%
+  setView(141.336, 43.118 , zoom = 9) %>% 
+  addMarkers(141.5233148, 42.6186386 )
+```
+
+
 +++
 ### <fong id='p_title'>clinic map</font>
 
@@ -329,7 +341,7 @@ sudo docker run --rm -it -v $(pwd):/data -p 8080:80 klokantech/openmaptiles-serv
 
 
 ---
-### <fong id='p_bold_olive'>SappoRoR#5からの変更点</font>
+### <fong id='p_title'>SappoRoR#5からの変更点</font>
 
 - DB接続、テーブルごとの前処理までをRの参照クラスで書き換え
 - shiny用snippet作成で、開発効率アップ

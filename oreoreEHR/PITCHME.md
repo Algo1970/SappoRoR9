@@ -306,6 +306,14 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <p id="p_small_gray">https://openmaptiles.com/</p>
 
 
++++
+### <font id='p_title'>Dockerコンテナを利用</font>
+
+地図データダウンロード後、docker run
+```
+wget -c https://openmaptiles.com/download/WyJhMjRlMmNhNi04OGQ2LTQ3NGMtOTg0Yi1jZDRjZGMxZGJkNTgiLCItMSIsODkyMV0.Dw2_Ig.v1BUsFqm5XhXAkHRDI6KKXTEYtw/osm-2017-07-03-v3.6.1-asia_japan.mbtiles?usage=education
+sudo docker run --rm -it -v $(pwd):/data -p 8080:80 klokantech/openmaptiles-server
+```
 
 +++
 ### <fong id='p_title'>clinic map</font>

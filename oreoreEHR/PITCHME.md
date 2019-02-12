@@ -30,7 +30,7 @@
 ---
 ### <font id='p_title'>電子カルテ補助システムについて</font>
 
-電子カルテの写真？
+<img src="oreoreEHR/img/EHR2.jpg" height="500" alt= "title"/> 
 
 +++
 ### <font id='p_title'>当院電子カルテの問題点</font>
@@ -182,7 +182,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/libpath.png" height="500" alt= "title"/>  
 
 +++
-### <font id='p_title'>解決策</font>
+### <font id='p_title'>注意点</font>
 
 1. <font id='p_title'>sample-appsのアクセス権限</font><br>
 <font id='p_main'>sudo chmod -R 777 /srv/shiny-server/sample-apps</font>
@@ -308,17 +308,17 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 
 <p id="p_small_gray">https://openmaptiles.com/</p>
 
-+++
-### <fong id='p_bold_olive'>patient map</font>
 
-<img src="oreoreEHR/img/ms_map.jpg" height="500" alt= "title"/>  
 
 +++
 ### <fong id='p_bold_olive'>clinic map</font>
 
 <img src="oreoreEHR/img/map_hp.jpg" height="500" alt= "title"/>  
 
++++
+### <fong id='p_bold_olive'>インフルエンザ感染者MAP</font>
 
+<img src="oreoreEHR/img/ms_map.jpg" height="500" alt= "title"/>  
 
 
 

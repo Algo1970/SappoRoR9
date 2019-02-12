@@ -266,11 +266,6 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
 
 +++
-### <font id='p_title'>人口ピラミッド（糖尿病患者）</font>
-
-<img src="oreoreEHR/img/pyramid_DM.jpg" height="500" alt= "title"/>  
-
-+++
 ### <font id='p_main'>患者H「C型肝炎の薬は、どう違うのですか？」</font>
 
 +++
@@ -280,7 +275,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 
 
 +++
-### <font id='p_title'>患者G「どうして豚肉は生で食べちゃいけないの？」</font>
+### <font id='p_title'>患者G「E型肝炎ってなんですか？」</font>
 
 +++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 

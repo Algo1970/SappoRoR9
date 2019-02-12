@@ -318,7 +318,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 +++
 ### <fong id='p_bold_olive'>インフルエンザ感染者MAP</font>
 
-<img src="oreoreEHR/img/ms_map.jpg" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/kitaku_flu.png" height="500" alt= "title"/>  
 
 
 

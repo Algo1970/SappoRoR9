@@ -39,8 +39,8 @@
 2.  <font id='p_title'>検索機能が貧弱</font>
 3.  <font id='p_title'>各種診断スコア等の計算ができない</font>
 4.  <font id='p_title'>次回予約プログラムが使いにくい</font>
-5.  <font id='p_title'>ローカルネットワークのため、<br>地図を表示できない</font>
-<br><br><font id='p_title'>等</font>
+5.  <font id='p_title'>ローカルネットワークのため、<br>地図を表示できない　等</font>
+
 
 +++
 ### <font id='p_title'>これらの問題解決のため、</font>
@@ -68,8 +68,8 @@
 - <font id='p_title'>患者住所テーブル</font>
 - <font id='p_title'>病名テーブル</font>
 - <font id='p_title'>採血データテーブル</font>
-- <font id='p_title'>処方・処置テーブル</font>
-- <font id='p_title'>処方・処置テーブル</font>
+- <font id='p_title'>カルテ所見テーブル</font>
+- <font id='p_title'>処方・処置テーブル　等</font>
 
 +++
 ### <font id='p_title'>データは前処理必要</font>
@@ -117,8 +117,12 @@ PTaddress = setRefClass("PTaddress",
 
 <img src="oreoreEHR/img/shiny_site_book.png" height="500" alt= "title"/>  
 
-
 ---
+### <font id='p_title'>shiny severの対応OS</font>
+
+<img src="oreoreEHR/img/shiny.png" height="500" alt= "title"/>  
+
++++
 ### <font id='p_title'>shiny severのinstall</font>
 
 1. <font id='p_title'>R, Rstudioのインストール</font><br>
@@ -143,7 +147,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 +++
 ### <font id='p_title'>アプリに接続</font>
 
-<img src="oreoreEHR/img/shiny_libpath.jpg" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/shiny_libpath.jpg" height="400" alt= "title"/>  
 
 <font id='p_title_orange'>IPaddresss:3838/sample-apps/フォルダ名</font><br>
 <font id='p_main'>にブラウザでアクセスするだけ。</font>
@@ -152,7 +156,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### <font id='p_title'>shiny-serverの注意点</font>
 
 1. <font id='p_title'>sample-appsのアクセス権限</font><br>
-2. <font id='p_title'>libpathの違い</font>
+2. <font id='p_title'>の違い</font>
 
 +++?image=oreoreEHR/img/permission.gif&size=contain
 
@@ -257,11 +261,6 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/mayoPBCmodel.png" height="300" alt= "title"/>  
 
 +++
-### <font id='p_title'>MELD</font>
-
-<img src="oreoreEHR/img/MELD.png" height="300" alt= "title"/>  
-
-+++
 ### <font id='p_title'>predict Liver Transplant</font>
 
 <img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
@@ -280,8 +279,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/pyramid_DM.jpg" height="500" alt= "title"/>  
 
 +++
-### <font id='p_title'>患者G「C型肝炎の薬は、どれぐらい効くの？」</font>
-### <font id='p_title'>患者H「C型肝炎の薬は、どう違うのですか？」</font>
+### <font id='p_main'>患者H「C型肝炎の薬は、どう違うのですか？」</font>
 
 +++
 ### <font id='p_title'>Rmarkdownで患者説明資料</font>
@@ -297,9 +295,8 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ---
 ### <font id='p_title'>患者住所テーブル</font>
 
-- local networkのため、地図表示ができず、患者位置情報を利用できない。
+- local networkのため、地図が使えず患者位置情報を利用できない。
 
--> 自前MAP server
 
 +++
 ### <font id='p_title'>自前マップサーバーを立てよう</font>
@@ -311,12 +308,12 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 
 
 +++
-### <fong id='p_bold_olive'>clinic map</font>
+### <fong id='p_title'>clinic map</font>
 
 <img src="oreoreEHR/img/map_hp.jpg" height="500" alt= "title"/>  
 
 +++
-### <fong id='p_bold_olive'>インフルエンザ感染者MAP</font>
+### <fong id='p_title'>インフルエンザ感染者MAP</font>
 
 <img src="oreoreEHR/img/kitaku_flu.png" height="500" alt= "title"/>  
 

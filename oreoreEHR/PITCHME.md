@@ -120,7 +120,7 @@ PTaddress = setRefClass("PTaddress",
 ---
 ### <font id='p_title'>shiny severの対応OS</font>
 
-<img src="oreoreEHR/img/shiny.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/shinysever_os.png" height="500" alt= "title"/>  
 
 +++
 ### <font id='p_title'>shiny severのinstall</font>

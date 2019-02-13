@@ -119,18 +119,18 @@ PTaddress = setRefClass("PTaddress",
 +++
 ### <font id='p_title'>診察待ち患者アラート</font>
 
-<img src="oreoreEHR/img/alert.png" height="250" alt= "title"/>  
+<img src="oreoreEHR/img/alert.png" height="200" alt= "title"/>  
 
 +++
 ### <font id='p_title'>長期処方で予約日が決めにくい</font>
 
 +++
 
-<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/ms_yoyaku.gif" height="600" alt= "title"/>  
 
 +++
 
-<img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/shiny_yoyaku.gif" height="600" alt= "title"/>  
 
 
 

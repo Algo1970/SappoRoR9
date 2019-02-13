@@ -249,7 +249,10 @@ leaflet::leaflet() %>%
 <img src="oreoreEHR/img/shiny_site_book.png" height="500" alt= "title"/>  
 
 ---
-### <font id='p_title'>shiny severの対応OS</font>
+### <font id='p_title'>shiny severの導入</font>
+
++++
+### <font id='p_title'>対応OS</font>
 
 <img src="oreoreEHR/img/shinyserver_os.png" height="500" alt= "title"/>  
 
@@ -259,7 +262,6 @@ leaflet::leaflet() %>%
 1. <font id='p_title'>R, Rstudioのインストール</font><br>
 2. <font id='p_title'>shinyパッケージのインストール</font><br>
 3. <font id='p_title_orange'>shiny-serverのインストール </font><br>
-
 
 ```
 sudo apt-get install gdebi-core

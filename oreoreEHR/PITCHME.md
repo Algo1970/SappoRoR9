@@ -149,9 +149,9 @@ PTaddress = setRefClass("PTaddress",
 +++
 ### <font id='p_title'>推定糸球体濾過量プロット</font>
 
-<font id='p_main'>腎予後を推定する</font>
+<img src="oreoreEHR/img/eGFRplot.png" height="500" alt= "title"/>  
 
-<img src="oreoreEHR/img/eGFRplot.png" height="400" alt= "title"/>  
+<font id='p_main'>腎予後の改善を可視化</font>
 
 +++
 ### <font id='p_title'>患者B「インフルエンザのワクチンは<br>いつ接種したら良いですか？」</font>

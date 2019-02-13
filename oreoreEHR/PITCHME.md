@@ -61,7 +61,7 @@
 <img src="oreoreEHR/img/RODBC.png" height="300" alt= "title"/>  
 
 +++
-### <font id='p_title'>サーバー内のテーブル</font>
+### <font id='p_title'>電子カルテDB内のテーブル</font>
 
 - <font id='p_title'>患者マスター</font>
 - <font id='p_title'>患者住所テーブル</font>
@@ -114,12 +114,13 @@ PTaddress = setRefClass("PTaddress",
 ### <font id='p_title'>当院で使用中のshinyアプリ</font>
 
 +++
-### <font id='p_title'>画面いっぱいにカルテ表示すると待ち患者が見えない…</font>
+### <font id='p_title'>患者と世間話で盛り上がり、<br>待合が混んできても気づけず<br>スタッフがイライラ…</font>
 
 +++
 ### <font id='p_title'>診察待ち患者アラート</font>
 
 <img src="oreoreEHR/img/alert.png" height="200" alt= "title"/>  
+<font id='p_main'>なるべく患者に気付かれないように<br>アラートをチラ見</font>
 
 +++
 ### <font id='p_title'>長期処方で予約日が決めにくい</font>

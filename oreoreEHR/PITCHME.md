@@ -168,7 +168,7 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/predict_LT.png" height="400" alt= "title"/>  
 
 +++
-### <font id='p_title'>経営会議「10年後の年代別患者分布は？」</font>
+### <font id='p_title'>経営会議<br>「10年後の年代別患者分布は？」</font>
 
 +++
 ### <font id='p_title'>人口ピラミッド</font>
@@ -176,7 +176,7 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
 
 +++
-### <font id='p_main'>患者H「C型肝炎の薬は、どう違うのですか？」</font>
+### <font id='p_main'>患者H<br>「C型肝炎の薬は、どう違うのですか？」</font>
 
 +++
 ### <font id='p_title'>Rmarkdownで患者説明資料</font>
@@ -185,7 +185,7 @@ PTaddress = setRefClass("PTaddress",
 
 
 +++
-### <font id='p_title'>患者G「E型肝炎ってなんですか？」</font>
+### <font id='p_title'>患者G<br>「E型肝炎ってなんですか？」</font>
 
 +++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 

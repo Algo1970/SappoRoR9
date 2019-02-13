@@ -162,20 +162,13 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/fluplot.png" height="500" alt= "title"/>  
 
 +++
-### <font id='p_title'>患者D「私の肝臓は大丈夫でしょうか？」</font>
+### <font id='p_title'>肝硬変患者D<br>「私の肝臓はどれ位もちますか？」</font>
 
 +++
-### <font id='p_title'>mayoPBCmodel</font>
-
-<img src="oreoreEHR/img/mayoPBCmodel.png" height="300" alt= "title"/>  
+<img src="oreoreEHR/img/predict_LT.png" height="400" alt= "title"/>  
 
 +++
-### <font id='p_title'>predict Liver Transplant</font>
-
-<img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
-
-+++
-### <font id='p_title'>会計士「新患が減っていますが、10年後は大丈夫ですか？」</font>
+### <font id='p_title'>経営会議「10年後の年代別患者分布は？」</font>
 
 +++
 ### <font id='p_title'>人口ピラミッド</font>

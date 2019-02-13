@@ -322,11 +322,13 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/shinyserver_libpath.png" height="500" alt= "title"/>  
 
 +++
-### <font id='p_title'>注意点</font>
+### <font id='p_title'> 最後に</font>
 
-1. <font id='p_title'>sample-appsのアクセス権限</font><br>
+<font id='p_main'>Rオジサンとの約束！！</font>
+
+1. <font id='p_title'>sample-appsのアクセス権限変更を</font><br>
 <font id='p_main'>sudo chmod -R 777 /srv/shiny-server/sample-apps</font>
-2. <font id='p_title'>libpathの違い</font><br>
+2. <font id='p_title'>libpathの違いに気をつける</font><br>
 <font id='p_main'>sudo chmod -R 777 /usr/local/lib/R/site-library<br>
   install.packages("shinythemes", lib = .libPaths()[2])</font>
 

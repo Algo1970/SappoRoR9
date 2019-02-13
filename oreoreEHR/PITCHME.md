@@ -123,15 +123,15 @@ PTaddress = setRefClass("PTaddress",
 <font id='p_main'>なるべく患者に気付かれないように<br>アラートをチラ見</font>
 
 +++
-### <font id='p_title'>長期処方で予約日が決めにくい</font>
+### <font id='p_title'>再診日、時間が決まらない</font>
 
 +++
 
-<img src="oreoreEHR/img/ms_yoyaku.gif" height="600" alt= "title"/>  
+<img src="oreoreEHR/img/ms_yoyaku.gif" height="700" alt= "title"/>  
 
 +++
 
-<img src="oreoreEHR/img/shiny_yoyaku.gif" height="600" alt= "title"/>  
+<img src="oreoreEHR/img/shiny_yoyaku.gif" height="700" alt= "title"/>  
 
 
 

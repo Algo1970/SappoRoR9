@@ -144,7 +144,7 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
 
 +++
-### <font id='p_title'>糖尿病患者A「薬を辞めてもいいですか？」</font>
+### <font id='p_title'>糖尿病患者A<br>「この薬は効いていますか？」</font>
 
 +++
 ### <font id='p_title'>推定糸球体濾過量プロット</font>

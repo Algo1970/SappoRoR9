@@ -111,6 +111,145 @@ PTaddress = setRefClass("PTaddress",
 
 
 
+---
+### <font id='p_title'>当院で使用中のshinyアプリ</font>
+
++++
+### <font id='p_title'>画面いっぱいにカルテ表示すると待ち患者が見えない…</font>
+
++++
+### <font id='p_title'>診察待ち患者アラート</font>
+
+<img src="oreoreEHR/img/alert.png" height="250" alt= "title"/>  
+
++++
+### <font id='p_title'>長期処方で予約日が決めにくい</font>
+
++++
+
+<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
+
++++
+
+<img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
+
+
+
++++
+### <font id='p_title'>体重の経過が見にくい</font>
+### <font id='p_title'>必要栄養量の計算が面倒</font>
+
++++
+### <font id='p_title'>体重経過と必要栄養量</font>
+
+<img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
+
++++
+### <font id='p_title'>糖尿病患者A「薬を辞めてもいいですか？」</font>
+
++++
+### <font id='p_title'>推定糸球体濾過量プロット</font>
+
+<font id='p_main'>腎予後を推定する</font>
+
+<img src="oreoreEHR/img/eGFRplot.png" height="400" alt= "title"/>  
+
++++
+### <font id='p_title'>患者B「インフルエンザのワクチンは<br>いつ接種したら良いですか？」</font>
+
++++
+### <font id='p_title'>インフルエンザ患者数</font>
+
+<img src="oreoreEHR/img/fluplot.png" height="500" alt= "title"/>  
+
++++
+### <font id='p_title'>患者D「私の肝臓は大丈夫でしょうか？」</font>
+
++++
+### <font id='p_title'>mayoPBCmodel</font>
+
+<img src="oreoreEHR/img/mayoPBCmodel.png" height="300" alt= "title"/>  
+
++++
+### <font id='p_title'>predict Liver Transplant</font>
+
+<img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
+
++++
+### <font id='p_title'>会計士「新患が減っていますが、10年後は大丈夫ですか？」</font>
+
++++
+### <font id='p_title'>人口ピラミッド</font>
+
+<img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
+
++++
+### <font id='p_main'>患者H「C型肝炎の薬は、どう違うのですか？」</font>
+
++++
+### <font id='p_title'>Rmarkdownで患者説明資料</font>
+
++++?image=oreoreEHR/img/Rmd_HCV.png&size=contain
+
+
++++
+### <font id='p_title'>患者G「E型肝炎ってなんですか？」</font>
+
++++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
+
+---
+### <font id='p_title'>患者住所テーブル</font>
+
+- local networkのため、地図が使えず患者位置情報を利用できない。
+
+
++++
+### <font id='p_title'>自前マップサーバーを立てよう</font>
+
+<img src="oreoreEHR/img/OpenMapTile.jpg" height="500" alt= "title"/> 
+
+<p id="p_small_gray">https://openmaptiles.com/</p>
+
+
++++
+### <font id='p_title'>Dockerコンテナを利用</font>
+
+地図データダウンロード後、docker run
+```
+wget -c https://openmaptiles.com/download/WyJhMjRlMmNhNi04OGQ2LTQ3NGMtOTg0Yi1jZDRjZGMxZGJkNTgiLCItMSIsODkyMV0.Dw2_Ig.v1BUsFqm5XhXAkHRDI6KKXTEYtw/osm-2017-07-03-v3.6.1-asia_japan.mbtiles?usage=education
+sudo docker run --rm -it -v $(pwd):/data -p 8080:80 klokantech/openmaptiles-server
+```
+
+
++++
+### <font id='p_title'>leafletにaddTilesで追加</font>
+
+```
+leaflet::leaflet() %>% 
+  addTiles( urlTemplate = "http://192.168.XXX.XXX:8080/styles/osm-bright/{z}/{x}/{y}.png") %>%
+  setView(141.336, 43.118 , zoom = 9) %>% 
+  addMarkers(141.5233148, 42.6186386 )
+```
+
++++
+### <fong id='p_title'>連携医療機関map</font>
+
+<img src="oreoreEHR/img/map_hp.jpg" height="500" alt= "title"/>  
+
++++
+### <fong id='p_title'>インフルエンザ感染者MAP</font>
+
+<img src="oreoreEHR/img/kitaku_flu.png" height="500" alt= "title"/>  
+
+---
+### <fong id='p_title'>SappoRoR#5からの変更点</font>
+
+- DB接続、テーブルごとの前処理までを<br>Rの参照クラスで書き換え
+- 自前MapServerで位置情報の可視化
+- shiny用snippet作成で、開発効率アップ
+
+
+
 
 ---
 ### <font id='p_title'>shiny appsの作り方</font>
@@ -195,174 +334,11 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
   install.packages("shinythemes", lib = .libPaths()[2])</font>
 
 
----
-### <font id='p_title'>当院で使用中のshinyアプリ</font>
 
-+++
-### <font id='p_title'>画面いっぱいにカルテ表示すると待ち患者が見えない…</font>
 
-+++
-### <font id='p_title'>診察待ち患者アラート</font>
 
-<img src="oreoreEHR/img/alert.png" height="250" alt= "title"/>  
 
-+++
-### <font id='p_title'>長期処方で予約日が決めにくい</font>
 
-+++
-
-<img src="oreoreEHR/img/ms_yoyaku.gif" height="500" alt= "title"/>  
-
-+++
-
-<img src="oreoreEHR/img/shiny_yoyaku.gif" height="500" alt= "title"/>  
-
-
-
-+++
-### <font id='p_title'>体重の経過が見にくい</font>
-### <font id='p_title'>必要栄養量の計算が面倒</font>
-
-+++
-### <font id='p_title'>体重経過と必要栄養量</font>
-
-<img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
-
-+++
-### <font id='p_title'>糖尿病患者A「薬を辞めてもいいですか？」</font>
-
-+++
-### <font id='p_title'>eGFRプロット</font>
-
-<img src="oreoreEHR/img/eGFRplot.png" height="500" alt= "title"/>  
-
-+++
-### <font id='p_title'>患者B「インフルエンザのワクチンは<br>いつ接種したら良いですか？」</font>
-
-+++
-### <font id='p_title'>インフルエンザ患者数</font>
-
-<img src="oreoreEHR/img/fluplot.png" height="500" alt= "title"/>  
-
-+++
-### <font id='p_title'>患者D「私の肝臓は大丈夫でしょうか？」</font>
-
-+++
-### <font id='p_title'>mayoPBCmodel</font>
-
-<img src="oreoreEHR/img/mayoPBCmodel.png" height="300" alt= "title"/>  
-
-+++
-### <font id='p_title'>predict Liver Transplant</font>
-
-<img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
-
-+++
-### <font id='p_title'>会計士「新患が減っていますが、10年後は大丈夫ですか？」</font>
-
-+++
-### <font id='p_title'>人口ピラミッド</font>
-
-<img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
-
-+++
-### <font id='p_main'>患者H「C型肝炎の薬は、どう違うのですか？」</font>
-
-+++
-### <font id='p_title'>Rmarkdownで患者説明資料</font>
-
-+++?image=oreoreEHR/img/Rmd_HCV.png&size=contain
-
-
-+++
-### <font id='p_title'>患者G「E型肝炎ってなんですか？」</font>
-
-+++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
-
----
-### <font id='p_title'>患者住所テーブル</font>
-
-- local networkのため、地図が使えず患者位置情報を利用できない。
-
-
-+++
-### <font id='p_title'>自前マップサーバーを立てよう</font>
-
-<img src="oreoreEHR/img/OpenMapTile.jpg" height="500" alt= "title"/> 
-
-<p id="p_small_gray">https://openmaptiles.com/</p>
-
-
-+++
-### <font id='p_title'>Dockerコンテナを利用</font>
-
-地図データダウンロード後、docker run
-```
-wget -c https://openmaptiles.com/download/WyJhMjRlMmNhNi04OGQ2LTQ3NGMtOTg0Yi1jZDRjZGMxZGJkNTgiLCItMSIsODkyMV0.Dw2_Ig.v1BUsFqm5XhXAkHRDI6KKXTEYtw/osm-2017-07-03-v3.6.1-asia_japan.mbtiles?usage=education
-sudo docker run --rm -it -v $(pwd):/data -p 8080:80 klokantech/openmaptiles-server
-```
-
-
-+++
-### <font id='p_title'>leafletにaddTilesで追加</font>
-
-```
-leaflet::leaflet() %>% 
-  addTiles( urlTemplate = "http://192.168.XXX.XXX:8080/styles/osm-bright/{z}/{x}/{y}.png") %>%
-  setView(141.336, 43.118 , zoom = 9) %>% 
-  addMarkers(141.5233148, 42.6186386 )
-```
-
-
-+++
-### <fong id='p_title'>clinic map</font>
-
-<img src="oreoreEHR/img/map_hp.jpg" height="500" alt= "title"/>  
-
-+++
-### <fong id='p_title'>インフルエンザ感染者MAP</font>
-
-<img src="oreoreEHR/img/kitaku_flu.png" height="500" alt= "title"/>  
-
-
-
-
----
-### <fong id='p_title'>SappoRoR#5からの変更点</font>
-
-- DB接続、テーブルごとの前処理までをRの参照クラスで書き換え
-- shiny用snippet作成で、開発効率アップ
-- 自前MapServerで位置情報の可視化
-
-
-
-
-
-
-
-
-
-+++?color=#6b8e23
-### まとめ
-
-@snap[east span-60]
-@quote[薬は効いているんですか？](患者A)
-@snapend
-
----
-### その他
-
-- リモートログオンクライアントで、画像サーバー、駐車場モニター、Rstudioサーバーの管理
-
-
-+++
-### <font id='p_title'>shiny-serverの注意点</font>
-
-1. <font id='p_title'>sample-appsのアクセス権限</font><br>
-<font id='p_main'>　sudo chmod -R 777 hoghoge</font>
-2. <font id='p_title'>環境変数、スコープ</font>
-3. <font id='p_title'>libpathの違い</font>
-4. <font id='p_title'>マルチプロセスは、他サイトを参照</font>
 
 
 

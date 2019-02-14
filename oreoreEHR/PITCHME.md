@@ -2,6 +2,11 @@
 
 
 ---
+### <font id='p_title'>Rによる電子カルテ補助システム</font>
+
+<font id='p_small_gray'>飛騨内科クリニック　飛騨　昌彦</font>
+
+---
 ### <font id='p_title'>本日の内容</font>
 
 1. <font id='p_title'>自己紹介</font>

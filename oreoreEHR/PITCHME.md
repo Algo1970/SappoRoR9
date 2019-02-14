@@ -47,12 +47,12 @@
 
 
 +++
-### <font id='p_title'>これらの問題解決のため、</font>
+### <font id='p_title'>これらの問題解決のため、shinyを導入</font>
 
 +++
 ###  <font id='p_title'>shinyアプリ</font>
 
-- <font id='p_title'>電子カルテに欲しい機能はshinyでつくる</font>
+- <font id='p_title'>電子カルテの追加機能はshinyでつくる</font>
 - <font id='p_title'>shiny-serverにのせて、24時間運用、<br>（Rstudioの邪魔にならない）</font>
 
 +++
@@ -76,9 +76,9 @@
 - <font id='p_title'>処方・処置テーブル　等</font>
 
 +++
-### <font id='p_title'>データは前処理必要</font>
+### <font id='p_title'>データの前処理</font>
 
-- <font id='p_title'>前処理用のクラスファイル</font>
+- <font id='p_title'>前処理用の参照クラス</font>
 
 ```
 # PTaddress class----

@@ -28,7 +28,6 @@
 <font id='p_main'>仕事：内科開業医 </font><br>
 <font id='p_main'>趣味：マラソン、R、<br>電子カルテハッキング </font><br>
 <font id='p_main'>好きな開発環境:Rstudio, neovim </font><br>
-<font id='p_main'>好きなRstudio shortcut：alt + 矢印</font><br>
 </div>
 
 ---
@@ -43,7 +42,7 @@
 2.  <font id='p_title'>検索機能が貧弱</font>
 3.  <font id='p_title'>各種診断スコア等の計算ができない</font>
 4.  <font id='p_title'>再診予約プログラムが使いにくい</font>
-5.  <font id='p_title'>ローカルネットワークのため、<br>地図を表示できない　等</font>
+5.  <font id='p_title'>地図を表示できない　等</font>
 
 
 +++

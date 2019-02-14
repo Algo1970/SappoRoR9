@@ -241,8 +241,8 @@ leaflet::leaflet() %>%
 ---
 ### <fong id='p_title'>SappoRoR#5からの変更点</font>
 
-- DB接続、テーブルごとの前処理までを<br>Rの参照クラスで書き換え
 - 自前MapServerで位置情報の可視化
+- DB接続、テーブルごとの前処理までを<br>Rの参照クラスで書き換え
 - shiny用snippet作成で、開発効率アップ
 
 

@@ -47,13 +47,13 @@
 
 
 +++
-### <font id='p_title'>これらの問題解決のため、shinyを導入</font>
+### <font id='p_title'>これらの問題解決のため<br>shinyを導入</font>
 
 +++
 ###  <font id='p_title'>shinyアプリ</font>
 
 - <font id='p_title'>電子カルテの追加機能はshinyでつくる</font>
-- <font id='p_title'>shiny-serverにのせて、24時間運用、<br>（Rstudioの邪魔にならない）</font>
+- <font id='p_title'>shiny-serverにのせて、24時間運用<br>（Rstudioの邪魔にならない）</font>
 
 +++
 ### <font id='p_title'>当院のネットワーク構成</font>

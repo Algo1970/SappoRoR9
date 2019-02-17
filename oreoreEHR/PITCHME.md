@@ -153,7 +153,7 @@ PTaddress = setRefClass("PTaddress",
 +++
 ### <font id='p_title'>推定糸球体濾過量プロット</font>
 
-<img src="oreoreEHR/img/eGFRplot.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/eGFRplot.png" height="400" alt= "title"/>  
 
 <font id='p_main'>腎予後の改善を可視化</font>
 

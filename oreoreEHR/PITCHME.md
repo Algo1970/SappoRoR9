@@ -330,9 +330,9 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/shinyserver_libpath.png" height="500" alt= "title"/>  
 
 +++
-### <font id='p_title'> 最後に</font>
+### <font id='p_title'> まとめ　</font>
 
-<font id='p_main'>Rオジサンとの約束！！</font>
+<font id='p_main'>shiny-server導入は簡単だけど、<br>ちょっとだけ注意</font>
 
 1. <font id='p_title'>sample-appsのアクセス権限変更を</font><br>
 ```

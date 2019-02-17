@@ -1,7 +1,3 @@
-### <img src="oreoreEHR/img/oreoreEHR.png" height="600" alt= "title"/>  
-
-
----
 ### <font id='p_title'>Rによる電子カルテ補助システム</font>
 
 <font id='p_main'>~ shiny-server導入編 ~</font><br><br>

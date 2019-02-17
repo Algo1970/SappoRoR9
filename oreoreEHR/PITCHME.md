@@ -329,7 +329,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 +++
 <img src="oreoreEHR/img/shinyserver_libpath.png" height="500" alt= "title"/>  
 
-+++
+---
 ### <font id='p_title'> まとめ　</font>
 
 <font id='p_title'>sample-appsのアクセス権限変更を</font><br>

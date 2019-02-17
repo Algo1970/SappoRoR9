@@ -207,10 +207,9 @@ PTaddress = setRefClass("PTaddress",
 
 
 +++
-
 <img src="oreoreEHR/img/OpenMapTile.jpg" height="400" alt= "title"/> 
-<p id="p_small_gray">https://openmaptiles.com/</p><br>
-<font id='p_title'>無いものは作る。院内map-server</font>
+<font id='p_title'>無いものは作ろう院内地図サーバー</font>
+<p id="p_small_gray">https://openmaptiles.com/</p>
 
 
 +++

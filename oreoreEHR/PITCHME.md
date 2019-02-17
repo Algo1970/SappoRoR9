@@ -32,10 +32,6 @@
 
 <img src="oreoreEHR/img/EHR2.jpg" height="500" alt= "title"/> 
 
-+++
-### <font id='p_title'>当院のネットワーク構成</font>
-
-<img src="oreoreEHR/img/Clinic_Network2.png" height="500" alt= "title"/>  
 
 +++
 ### <font id='p_title'>当院電子カルテの問題点</font>
@@ -55,6 +51,11 @@
 
 - <font id='p_title'>電子カルテの追加機能をshinyで作成</font>
 - <font id='p_title'>ついでにshiny-serverにのせて、24時間運用</font>
+
++++
+### <font id='p_title'>当院のネットワーク構成</font>
+
+<img src="oreoreEHR/img/Clinic_Network2.png" height="500" alt= "title"/>  
 
 
 +++

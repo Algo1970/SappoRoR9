@@ -184,7 +184,7 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
 
 +++
-### <font id='p_main'>患者H<br>「C型肝炎の薬は、どう違うのですか？」</font>
+### <font id='p_main'>患者H<br>「C型肝炎の薬は、たくさんありますが<br>どう違うのですか？」</font>
 
 +++
 ### <font id='p_title'>Rmarkdownで患者説明資料</font>

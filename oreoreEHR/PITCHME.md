@@ -33,6 +33,12 @@
 <img src="oreoreEHR/img/EHR2.jpg" height="500" alt= "title"/> 
 
 +++
+### <font id='p_title'>当院のネットワーク構成</font>
+
+<img src="oreoreEHR/img/Clinic_Network2.png" height="500" alt= "title"/>  
+
+
++++
 ### <font id='p_title'>当院電子カルテの問題点</font>
 
 1.  <font id='p_title'>患者ID毎に経時的な情報しか表示できない</font>
@@ -51,10 +57,6 @@
 - <font id='p_title'>電子カルテの追加機能はshinyでつくる</font>
 - <font id='p_title'>shiny-serverにのせて、24時間運用<br>（Rstudioの邪魔にならない）</font>
 
-+++
-### <font id='p_title'>当院のネットワーク構成</font>
-
-<img src="oreoreEHR/img/Clinic_Network2.png" height="500" alt= "title"/>  
 
 +++
 ### <font id='p_title'>Rで接続</font>

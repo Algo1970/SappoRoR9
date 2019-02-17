@@ -201,7 +201,7 @@ PTaddress = setRefClass("PTaddress",
 ### <font id='p_title'>ほぼ全ての電子カルテデータは<br>利用できたが…</font>
 
 +++
-### <font id='p_title'>患者位置情報だけは、利用できない</font>
+### <font id='p_title'>患者位置情報だけは、利用できていません</font>
 
 <font id='p_main'>インターネットに繋げないから…</font>
 

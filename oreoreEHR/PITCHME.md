@@ -111,13 +111,14 @@ PTaddress = setRefClass("PTaddress",
 ```
 
 
+---
+### <font id='p_title'>shinyアプリの紹介</font>
 
 
 ---
-### <font id='p_title'>当院で使用中のshinyアプリ</font>
+### <font id='p_title'>case1 : 患者と世間話で盛り上がり、<br>待合が混んできても気づけず<br>スタッフがイライラ…</font>
 
-+++
-### <font id='p_title'>患者と世間話で盛り上がり、<br>待合が混んできても気づけず<br>スタッフがイライラ…</font>
+<img src="oreoreEHR/img/angry_nurse.png" height="200" alt= "title"/>  
 
 +++
 ### <font id='p_title'>診察待ち患者アラート</font>
@@ -126,7 +127,9 @@ PTaddress = setRefClass("PTaddress",
 <font id='p_main'>なるべく患者に気付かれないように<br>アラートをチラ見</font>
 
 +++
-### <font id='p_title'>再診日、時間が決まらない</font>
+### <font id='p_title'>case2 : 再診日、時間が決まらない</font>
+
+<img src="oreoreEHR/img/confused_grandma.png" height="200" alt= "title"/> 
 
 +++
 

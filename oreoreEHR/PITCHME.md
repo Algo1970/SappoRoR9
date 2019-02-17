@@ -23,7 +23,7 @@
 <div id="column660">
 @fa[twitter fa-1x twitter-blue] <font id='p_main'>：@R_beginner</font> <br>
 <font id='p_main'>仕事：内科開業医 </font><br>
-<font id='p_main'>趣味：マラソン, R, python<br>vim, ubuntu</font><br>
+<font id='p_main'>趣味：マラソン, R, python<br>　　　vim, ubuntu</font><br>
 <font id='p_main'>好きな開発環境:Rstudio, neovim </font><br>
 </div>
 

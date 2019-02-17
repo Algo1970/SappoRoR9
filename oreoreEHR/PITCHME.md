@@ -262,7 +262,7 @@ leaflet::leaflet() %>%
 +++
 ### <font id='p_title'>対応OS</font>
 
-<img src="oreoreEHR/img/shinyserver_os2.png" height="400" alt= "title"/>  
+<img src="oreoreEHR/img/server_os2.png" height="400" alt= "title"/>  
 
 +++
 ### <font id='p_title'>shiny severのinstall</font>

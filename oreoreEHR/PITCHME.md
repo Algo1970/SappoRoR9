@@ -7,7 +7,7 @@
 ### <font id='p_title'>本日の内容</font>
 
 1. <font id='p_title'>自己紹介</font>
-2. <font id='p_title'>電子カルテ補助システムについて</font>
+2. <font id='p_title'>Rによる電子カルテへの接続</font>
 3. <font id='p_title'>運用中のshinyアプリ</font>
 4. <font id='p_title'>SappoRoR#5からの変更点</font>
 5. <font id='p_title'>shiny-serverの導入の注意点</font>

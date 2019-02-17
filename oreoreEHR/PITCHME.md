@@ -153,6 +153,8 @@ PTaddress = setRefClass("PTaddress",
 +++
 ### <font id='p_title'>糖尿病患者A<br>「この薬は効いていますか？」</font>
 
+<img src="oreoreEHR/img/doctor_isee.png" height="500" alt= "title"/>  
+
 +++
 ### <font id='p_title'>推定糸球体濾過量プロット</font>
 
@@ -163,6 +165,8 @@ PTaddress = setRefClass("PTaddress",
 +++
 ### <font id='p_title'>患者B「インフルエンザのワクチンは<br>いつ接種したら良いですか？」</font>
 
+<img src="oreoreEHR/img/child.png" height="500" alt= "title"/>  
+
 +++
 ### <font id='p_title'>インフルエンザ患者数</font>
 
@@ -170,6 +174,8 @@ PTaddress = setRefClass("PTaddress",
 
 +++
 ### <font id='p_title'>肝硬変患者D<br>「私の肝臓はどれ位もちますか？」</font>
+
+<img src="oreoreEHR/img/doctor_question.png" height="500" alt= "title"/>  
 
 +++
 <img src="oreoreEHR/img/predict_LT.png" height="400" alt= "title"/>  

@@ -288,7 +288,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 +++
 ### <font id='p_title'>アプリに接続</font>
 
-<img src="oreoreEHR/img/shiny_libpath.jpg" height="400" alt= "title"/>  
+<img src="oreoreEHR/img/shiny_libpath.jpg" height="300" alt= "title"/>  
 
 <font id='p_title_orange'>IPaddresss:3838/sample-apps/フォルダ名</font><br>
 <font id='p_main'>にブラウザでアクセスするだけ。</font>

@@ -332,8 +332,6 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 +++
 ### <font id='p_title'> まとめ　</font>
 
-<font id='p_main'>shiny-server導入は簡単だけど、<br>ちょっとだけ注意</font>
-
 1. <font id='p_title'>sample-appsのアクセス権限変更を</font><br>
 ```
 $ sudo chmod -R 777 /srv/shiny-server/sample-apps

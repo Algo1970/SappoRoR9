@@ -227,7 +227,7 @@ sudo docker run --rm -it -v $(pwd):/data -p 8080:80 klokantech/openmaptiles-serv
 
 ```
 leaflet::leaflet() %>% 
-  addTiles( urlTemplate = "http://192.168.11.111:8080/styles/osm-bright/{z}/{x}/{y}.png") %>%
+  addTiles( urlTemplate = "http://192.168.XX.XXX:8080/styles/osm-bright/{z}/{x}/{y}.png") %>%
   setView(141.336, 43.118 , zoom = 9) %>% 
   addMarkers(141.5233148, 42.6186386 )
 ```

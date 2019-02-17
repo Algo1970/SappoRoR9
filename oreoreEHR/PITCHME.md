@@ -132,7 +132,7 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/confused_grandma2.png" height="200" alt= "title"/> 
 
 +++
-<img src="oreoreEHR/img/shiny_yoyaku.gif" height="700" alt= "title"/>  
+<img src="oreoreEHR/img/shiny_yoyaku.gif" height="600" alt= "title"/>  
 
 
 

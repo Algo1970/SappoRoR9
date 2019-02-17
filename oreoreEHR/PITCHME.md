@@ -253,9 +253,9 @@ leaflet::leaflet() %>%
 ---
 ### <font id='p_title'>質問</font>
 
-<font id='p_main'>1. shiny appを使ったことありますか？</font>
-<font id='p_main'>2. shiny-serverをインストールしたことありますか？</font>
-<font id='p_main'>1. shiny-serverに自作アプリを入れたことありますか？</font>
+<font id='p_main'>1. shiny appを使ったことありますか？</font><br>
+<font id='p_main'>2. shiny-serverをインストールしたことありますか？</font><br>
+<font id='p_main'>3. shiny-serverに自作アプリを入れたことありますか？</font>
 
 ---
 ### <font id='p_title'>shiny appsの作り方</font>

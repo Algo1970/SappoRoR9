@@ -173,7 +173,7 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/doctor_question.png" height="200" alt= "title"/>  
 
 +++
-<img src="oreoreEHR/img/predict_LT.png" height="400" alt= "title"/>  
+<img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
 
 +++
 ### <font id='p_title'>経営会議<br>「10年後の年代別患者分布は？」</font>

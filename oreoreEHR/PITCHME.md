@@ -129,7 +129,7 @@ PTaddress = setRefClass("PTaddress",
 +++
 ### <font id='p_title'>case2 : 再診日、時間が決まらない</font>
 
-<img src="oreoreEHR/img/confused_grandma.png" height="200" alt= "title"/> 
+<img src="oreoreEHR/img/confused_grandma2.png" height="200" alt= "title"/> 
 
 +++
 

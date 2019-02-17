@@ -198,9 +198,12 @@ PTaddress = setRefClass("PTaddress",
 +++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 
 ---
-### <font id='p_title'>患者住所テーブル</font>
+### <font id='p_title'>ほぼ全ての電子カルテデータは<br>利用できたが…</font>
 
-- local networkのため、地図が使えず患者位置情報を利用できない。
++++
+### <font id='p_title'>患者位置情報だけは、利用できない</font>
+
+<font id='p_main'>インターネットに繋げないから…</font>
 
 
 +++

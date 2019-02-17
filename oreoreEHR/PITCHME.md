@@ -333,14 +333,17 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### <font id='p_title'> まとめ　</font>
 
 1. <font id='p_title'>sample-appsのアクセス権限変更を</font><br>
+
 ```
 $ sudo chmod -R 777 /srv/shiny-server/sample-apps
 ```
+
 2. <font id='p_title'>libpathの違いに気をつける</font><br>
 
 ```
 $ sudo chmod -R 777 /usr/local/lib/R/site-library
 ```
+
 ```
 > install.packages("shinythemes", lib = .libPaths()[2])
 ```

@@ -202,7 +202,7 @@ PTaddress = setRefClass("PTaddress",
 ### <font id='p_title'>ほぼ全ての電子カルテデータは<br>利用できたが…</font>
 
 +++
-### <font id='p_title'>患者位置情報だけは、利用できていません</font>
+### <font id='p_title'>患者位置情報だけは、<br>利用できていません</font>
 
 <font id='p_main'>インターネットに繋げないから…</font>
 
@@ -253,6 +253,9 @@ leaflet::leaflet() %>%
 - DB接続、テーブルごとの前処理までを<br>Rの参照クラスで書き換え
 - shiny用snippet作成で、開発効率アップ
 
+
+---
+### <font id='p_title'>最後にshinyの話</font>
 
 ---
 ### <font id='p_title'>質問</font>
@@ -332,7 +335,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 <img src="oreoreEHR/img/libpaths.png" height="503" alt= "title"/>  
 
 +++
-### <font id='p_title'>shinyで.libPaths()</font>
+### <font id='p_title'>.libPaths()を表示するshinyアプリ</font>
 
 <img src="oreoreEHR/img/libpath.png" height="500" alt= "title"/>  
 

@@ -234,7 +234,10 @@ leaflet::leaflet() %>%
 +++
 ### <fong id='p_title'>連携医療機関map</font>
 
-<img src="oreoreEHR/img/hp_map.jpg" height="600" alt= "title"/>  
+<img src="oreoreEHR/img/hp_map.jpg" height="550" alt= "title"/>  
+
++++?image=oreoreEHR/img/hp_map.jpg&size=contain
+### <fong id='p_title'>連携医療機関map</font>
 
 +++
 ### <fong id='p_title'>インフルエンザ感染者MAP</font>

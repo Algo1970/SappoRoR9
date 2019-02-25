@@ -117,10 +117,10 @@ PTaddress = setRefClass("PTaddress",
 ### <font id='p_title'>症例 :　７０代男性、糖尿病、アルコール性肝硬変 </font>
 
 +++
-### <font id='p_main'>医師：食事療法はうまくいってますか？</font>
-### <font id='p_main'>患者：控えてはいるのですが…</font>
-### <font id='p_main'>医師：体重は減ってきましたか？</font>
-### <font id='p_main'>患者：………</font>
+- <font id='p_main'>医師：食事療法はうまくいってますか？</font>
+- <font id='p_main'>患者：控えてはいるのですが…</font>
+- <font id='p_main'>医師：体重は減ってきましたか？</font>
+- <font id='p_main'>患者：………</font>
 
 +++
 ### <font id='p_title'>体重経過と必要栄養量</font>

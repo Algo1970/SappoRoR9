@@ -152,7 +152,7 @@ PTaddress = setRefClass("PTaddress",
 
 +++
 - <font id='p_main'>患者『運動やってみようかな…』</font>
-- <font id='p_main'>医師『市民マラソンとか楽しいですよ。RNNNETで探して…』</font>
+- <font id='p_main'>医師『市民マラソンとか楽しいですよ。<br>待合にRunnersって本置いてありますから…<br>RNNNETで探して…』</font>
 
 +++
 ### <font id='p_main'>患者と世間話で盛り上がり、<br>待合が混んできても気づけず<br>スタッフがイライラ…</font>

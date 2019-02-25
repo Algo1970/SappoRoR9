@@ -118,18 +118,19 @@ PTaddress = setRefClass("PTaddress",
 
 +++
 - <font id='p_main'>医師：食事療法はうまくいってますか？</font>
-- <font id='p_main'>患者：控えてはいるのですが…</font>
+- <font id='p_main'>患者：はい頑張っています。</font>
 - <font id='p_main'>医師：体重は減ってきましたか？</font>
 - <font id='p_main'>患者：………</font>
 
 +++
 ### <font id='p_title'>体重経過と必要栄養量</font>
 
+体重が減っていないグラフを
 <img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
 
 +++
-### <font id='p_main'>患者:薬は効いていますか？(キレ気味)</font>
-### <font id='p_main'>医師：効いてますよ</font>
+- <font id='p_main'>患者:薬は効いていますか？(キレ気味)</font>
+- <font id='p_main'>医師：効いてますよ</font>
 <img src="oreoreEHR/img/doctor_isee2.png" height="200" alt= "title"/>  
 
 +++
@@ -138,8 +139,8 @@ PTaddress = setRefClass("PTaddress",
 <font id='p_main'>腎予後の改善を可視化</font>
 
 +++
-### <font id='p_main'>患者：僕の肝臓まずいですかね…(反省)</font>
-### <font id='p_main'>医師：まだ大丈夫ですが…</font>
+- <font id='p_main'>患者：僕の肝臓まずいですかね…(反省)</font>
+- <font id='p_main'>医師：まだ大丈夫ですが…</font>
 <img src="oreoreEHR/img/doctor_question.png" height="200" alt= "title"/> 
 
 +++

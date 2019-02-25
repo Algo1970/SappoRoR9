@@ -143,6 +143,9 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/doctor_question.png" height="200" alt= "title"/> 
 
 +++
+<img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
+
++++
 ### <font id='p_main'>患者：運動やってみようかな…</font>
 ### <font id='p_main'>医師：市民マラソンとか楽しいですよ。RNNNETで探して…</font>
 

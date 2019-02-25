@@ -143,7 +143,8 @@ PTaddress = setRefClass("PTaddress",
 
 +++
 - <font id='p_main'>患者：僕の肝臓まずいですかね…(反省)</font>
-- <font id='p_main'>医師：まだ大丈夫ですが…</font>
+- <font id='p_main'>医師：まだ大丈夫ですが…</font>  
+  
 <img src="oreoreEHR/img/doctor_question.png" height="200" alt= "title"/> 
 
 +++

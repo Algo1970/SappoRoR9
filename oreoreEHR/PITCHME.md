@@ -114,6 +114,9 @@ PTaddress = setRefClass("PTaddress",
 ### <font id='p_title'>shinyアプリの紹介</font>
 
 ---
+### <font id='p_title'>Hクリニック 第一診察室 </font>
+
++++
 ### <font id='p_title'>症例 :　７０代男性、糖尿病、アルコール性肝硬変 </font>
 
 +++
@@ -147,8 +150,8 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
 
 +++
-### <font id='p_main'>患者：運動やってみようかな…</font>
-### <font id='p_main'>医師：市民マラソンとか楽しいですよ。RNNNETで探して…</font>
+- <font id='p_main'>患者『運動やってみようかな…』</font>
+- <font id='p_main'>医師『市民マラソンとか楽しいですよ。RNNNETで探して…』</font>
 
 +++
 ### <font id='p_main'>患者と世間話で盛り上がり、<br>待合が混んできても気づけず<br>スタッフがイライラ…</font>
@@ -160,9 +163,9 @@ PTaddress = setRefClass("PTaddress",
 <font id='p_main'>なるべく患者に気付かれないように<br>アラートをチラ見</font>
 
 +++
-### <font id='p_main'>医師：次回受診までに運動療法取り入れてみましょうね</font>
-### <font id='p_main'>患者：頑張ってみます</font>
-### <font id='p_main'>医師：次回の予約ですが…</font>
+- <font id='p_main'>医師『次回受診までに運動療法取り入れてみましょうね』</font>
+- <font id='p_main'>患者『頑張ってみます』</font>
+- <font id='p_main'>医師『次回の予約ですが…』</font>
 
 +++
 ### <font id='p_title'>事例2 : <br>再診日、時間が決まらない</font>
@@ -170,6 +173,10 @@ PTaddress = setRefClass("PTaddress",
 
 +++
 <img src="oreoreEHR/img/shiny_yoyaku.gif" height="600" alt= "title"/>  
+
+---
+### <font id='p_title'>Hクリニック 第二診察室 </font>
+
 
 
 ---

@@ -128,8 +128,7 @@ PTaddress = setRefClass("PTaddress",
 +++
 ### <font id='p_title'>体重経過と必要栄養量</font>
 
-体重が減っていないグラフを
-<img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
+<img src="oreoreEHR/img/obesity.jpg" height="500" alt= "title"/>  
 
 +++
 - <font id='p_main'>患者『薬は効いていますか？(キレ気味)』</font>

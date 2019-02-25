@@ -117,10 +117,10 @@ PTaddress = setRefClass("PTaddress",
 ### <font id='p_title'>症例 :　７０代男性、糖尿病、アルコール性肝硬変 </font>
 
 +++
-- <font id='p_main'>医師：食事療法はうまくいってますか？</font>
-- <font id='p_main'>患者：はい頑張っています。</font>
-- <font id='p_main'>医師：体重は減ってきましたか？</font>
-- <font id='p_main'>患者：………</font>
+- <font id='p_main'>医師『食事療法はうまくいってますか？』</font>
+- <font id='p_main'>患者『はい頑張っています。』</font>
+- <font id='p_main'>医師『体重は減ってきましたか？』</font>
+- <font id='p_main'>患者『………』</font>
 
 +++
 ### <font id='p_title'>体重経過と必要栄養量</font>
@@ -129,8 +129,8 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
 
 +++
-- <font id='p_main'>患者:薬は効いていますか？(キレ気味)</font>
-- <font id='p_main'>医師：効いてますよ</font>
+- <font id='p_main'>患者『薬は効いていますか？(キレ気味)』</font>
+
 <img src="oreoreEHR/img/doctor_isee2.png" height="200" alt= "title"/>  
 
 +++

@@ -73,7 +73,7 @@
 - <font id='p_title'>処方・処置テーブル　等</font>
 
 +++
-### <font id='p_title'>データの前処理</font>
+### <font id='p_title'>データの抽出</font>
 
 - <font id='p_title'>前処理用の参照クラス</font>
 
@@ -112,6 +112,60 @@ PTaddress = setRefClass("PTaddress",
 
 ---
 ### <font id='p_title'>shinyアプリの紹介</font>
+
+---
+### <font id='p_title'>症例 :　７０代男性、糖尿病、アルコール性肝硬変 </font>
+
++++
+### <font id='p_main'>医師：食事療法はうまくいってますか？</font>
+### <font id='p_main'>患者：控えてはいるのですが…</font>
+### <font id='p_main'>医師：体重は減ってきましたか？</font>
+### <font id='p_main'>患者：………</font>
+
++++
+### <font id='p_title'>体重経過と必要栄養量</font>
+
+<img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
+
++++
+### <font id='p_main'>患者:薬は効いていますか？(キレ気味)</font>
+### <font id='p_main'>医師：効いてますよ</font>
+<img src="oreoreEHR/img/doctor_isee2.png" height="200" alt= "title"/>  
+
++++
+### <font id='p_title'>推定糸球体濾過量プロット</font>
+<img src="oreoreEHR/img/eGFRplot.png" height="400" alt= "title"/>  
+<font id='p_main'>腎予後の改善を可視化</font>
+
++++
+### <font id='p_main'>患者：僕の肝臓まずいですかね…(反省)</font>
+### <font id='p_main'>医師：まだ大丈夫ですが…</font>
+<img src="oreoreEHR/img/doctor_question.png" height="200" alt= "title"/> 
+
++++
+### <font id='p_main'>患者：運動やってみようかな…</font>
+### <font id='p_main'>医師：市民マラソンとか楽しいですよ。RNNNETで探して…</font>
+
++++
+### <font id='p_main'>患者と世間話で盛り上がり、<br>待合が混んできても気づけず<br>スタッフがイライラ…</font>
+<img src="oreoreEHR/img/angry_nurse.png" height="200" alt= "title"/>  
+
++++
+### <font id='p_title'>診察待ち患者アラート</font>
+<img src="oreoreEHR/img/alert.png" height="200" alt= "title"/>  
+<font id='p_main'>なるべく患者に気付かれないように<br>アラートをチラ見</font>
+
++++
+### <font id='p_main'>医師：次回受診までに運動療法取り入れてみましょうね</font>
+### <font id='p_main'>患者：頑張ってみます</font>
+### <font id='p_main'>医師：次回の予約ですが…</font>
+
++++
+### <font id='p_title'>事例2 : <br>再診日、時間が決まらない</font>
+<img src="oreoreEHR/img/confused_grandma2.png" height="200" alt= "title"/> 
+
++++
+<img src="oreoreEHR/img/shiny_yoyaku.gif" height="600" alt= "title"/>  
 
 
 ---

@@ -31,7 +31,6 @@
 
 <img src="oreoreEHR/img/EHR2.jpg" height="500" alt= "title"/> 
 
-
 +++
 ### <font id='p_title'>当院電子カルテの問題点</font>
 
@@ -41,13 +40,10 @@
 4.  <font id='p_title'>再診予約プログラムが使いにくい</font>
 5.  <font id='p_title'>地図を表示できない　等</font>
 
-
 +++
 ### <font id='p_title'>困った事はRで解決しましょう</font>
 
 +++
-###  
-
 - <font id='p_title'>電子カルテの追加機能をshinyで作成</font>
 - <font id='p_title'>ついでにshiny-serverにのせて、24時間運用</font>
 

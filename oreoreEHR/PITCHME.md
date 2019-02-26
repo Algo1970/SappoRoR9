@@ -164,7 +164,7 @@ PTaddress = setRefClass("PTaddress",
 - <font id='p_main'>医師『次回の予約ですが…』</font>
 
 +++
-### <font id='p_title'>事例2 : <br>再診日、時間が決まらない</font>
+### <font id='p_title'>再診日、時間が決まらない</font>
 <img src="oreoreEHR/img/reservation_man.png" height="200" alt= "title"/> 
 
 +++

@@ -185,91 +185,14 @@ PTaddress = setRefClass("PTaddress",
 
 <img src="oreoreEHR/img/fluplot.png" height="500" alt= "title"/>  
 
-
-
----
-### <font id='p_title'>事例1 : <br>患者と世間話で盛り上がり、<br>待合が混んできても気づけず<br>スタッフがイライラ…</font>
-
-<img src="oreoreEHR/img/angry_nurse.png" height="200" alt= "title"/>  
-
-+++
-### <font id='p_title'>診察待ち患者アラート</font>
-
-<img src="oreoreEHR/img/alert.png" height="200" alt= "title"/>  
-<font id='p_main'>なるべく患者に気付かれないように<br>アラートをチラ見</font>
-
-+++
-### <font id='p_title'>事例2 : <br>再診日、時間が決まらない</font>
-
-<img src="oreoreEHR/img/confused_grandma2.png" height="200" alt= "title"/> 
-
-+++
-<img src="oreoreEHR/img/shiny_yoyaku.gif" height="600" alt= "title"/>  
-
-
-
 +++
 
-### <font id='p_title'>事例3 : </font>
-### <font id='p_title'>体重の経過が見にくい</font>
-### <font id='p_title'>必要栄養量の計算が面倒</font>
-
-+++
-### <font id='p_title'>体重経過と必要栄養量</font>
-
-<img src="oreoreEHR/img/BWplot.png" height="500" alt= "title"/>  
-
-+++
-### <font id='p_title'>糖尿病患者A<br>「この薬は効いていますか？」</font>
-
-<img src="oreoreEHR/img/doctor_isee2.png" height="200" alt= "title"/>  
-
-+++
-### <font id='p_title'>推定糸球体濾過量プロット</font>
-
-<img src="oreoreEHR/img/eGFRplot.png" height="400" alt= "title"/>  
-
-<font id='p_main'>腎予後の改善を可視化</font>
-
-+++
-### <font id='p_title'>患者B「インフルエンザのワクチンは<br>いつ接種したら良いですか？」</font>
-
-<img src="oreoreEHR/img/child.png" height="200" alt= "title"/>  
-
-+++
-### <font id='p_title'>インフルエンザ患者数</font>
-
-<img src="oreoreEHR/img/fluplot.png" height="500" alt= "title"/>  
-
-+++
-### <font id='p_title'>肝硬変患者D<br>「私の肝臓はどれ位もちますか？」</font>
-
-<img src="oreoreEHR/img/doctor_question.png" height="200" alt= "title"/>  
-
-+++
-<img src="oreoreEHR/img/predict_LT.png" height="300" alt= "title"/>  
-
-+++
-### <font id='p_title'>経営会議<br>「10年後の年代別患者分布は？」</font>
-
-+++
-### <font id='p_title'>人口ピラミッド</font>
-
-<img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
-
-+++
-### <font id='p_main'>患者H<br>「C型肝炎の薬は、たくさんありますが<br>どう違うのですか？」</font>
-
-+++
-### <font id='p_title'>Rmarkdownで患者説明資料</font>
+- <font id='p_main'>患者『テレビでC型肝炎が飲み薬で治るって言ってたけど…』</font>
+- <font id='p_main'>医師『今は、ほとんどの人が完治します。<br>こちらを御覧ください…』</font>
 
 +++?image=oreoreEHR/img/Rmd_HCV.png&size=contain
 
 
-+++
-### <font id='p_title'>患者G<br>「E型肝炎ってなんですか？」</font>
-
-+++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 
 ---
 ### <font id='p_title'>ほぼ全ての電子カルテデータは<br>利用できたが…</font>
@@ -436,6 +359,21 @@ $ sudo chmod -R 777 /usr/local/lib/R/site-library
 
 
 
+
+
+
+---
+### <font id='p_title'>経営会議<br>「10年後の年代別患者分布は？」</font>
+
++++
+### <font id='p_title'>人口ピラミッド</font>
+
+<img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
+
++++
+### <font id='p_title'>患者G<br>「E型肝炎ってなんですか？」</font>
+
++++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
 
 
 

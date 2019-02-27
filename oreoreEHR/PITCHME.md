@@ -306,7 +306,7 @@ sudo gdebi shiny-server-1.5.9.923-amd64.deb
 ### <font id='p_title'>shiny-serverの注意点</font>
 
 1. <font id='p_title'>sample-appsのアクセス権限</font><br>
-2. <font id='p_title'>library pathの違い</font>
+2. <font id='p_title'>library pathの問題</font>
 
 +++?image=oreoreEHR/img/permission.gif&size=contain
 

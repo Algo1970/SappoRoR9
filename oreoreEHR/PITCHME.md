@@ -361,21 +361,6 @@ $ sudo chmod -R 777 /usr/local/lib/R/site-library
 
 
 
----
-### <font id='p_title'>経営会議<br>「10年後の年代別患者分布は？」</font>
-
-+++
-### <font id='p_title'>人口ピラミッド</font>
-
-<img src="oreoreEHR/img/pyramid.jpg" height="500" alt= "title"/>  
-
-+++
-### <font id='p_title'>患者G<br>「E型肝炎ってなんですか？」</font>
-
-+++?image=oreoreEHR/img/Rmd_HEV.png&size=contain
-
-
-
 
 
 

@@ -174,12 +174,11 @@ PTaddress = setRefClass("PTaddress",
 ### <font id='p_title'>Hクリニック 第二診察室 </font>
 
 +++
-
 - <font id='p_main'>患者『この間インフルエンザになっちゃって…<br>
-  来年はワクチン打ちたいんだけど、いつ頃がよいですか？』</font>
-- <font id='p_main'>医師『ここ最近のインフルエンザ流行期は…』</font><br>
-
+  来年はワクチン打ちたいんだけど、いつ頃がよいですか？』</font><br>
 <img src="oreoreEHR/img/confused_grandma.png" height="200" alt= "title"/>  
+
+- <font id='p_main'>医師『ここ最近のインフルエンザ流行期は…』</font>
 
 +++
 ### <font id='p_title'>インフルエンザ患者数</font>

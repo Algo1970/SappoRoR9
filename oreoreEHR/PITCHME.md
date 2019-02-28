@@ -119,9 +119,9 @@ PTaddress = setRefClass("PTaddress",
 
 +++
 - <font id='p_main'>医師『食事療法はうまくいってますか？』</font>
-- <font id='p_main'>患者『はい頑張っています。』</font>
+- <font id='p_main'>患者『頑張っていますが…』</font>
 - <font id='p_main'>医師『体重は減ってきましたか？』</font>
-- <font id='p_main'>患者『………』</font>
+- <font id='p_main'>患者『うっ………』</font>
 
 +++
 ### <font id='p_title'>体重経過と必要栄養量</font>

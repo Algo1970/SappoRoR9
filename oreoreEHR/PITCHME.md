@@ -23,7 +23,7 @@
 @fa[twitter fa-1x twitter-blue] <font id='p_main'>：@R_beginner</font> <br>
 <font id='p_main'>仕事：内科開業医(消化器病、肝臓病) </font><br>
 <font id='p_main'>趣味：マラソン, R, python<br>　　　vim, ubuntu</font><br>
-<font id='p_main'>好きな開発環境:Rstudio, neovim </font><br>
+<font id='p_main'>好きなR本:R言語徹底解説</font><br>
 </div>
 
 ---

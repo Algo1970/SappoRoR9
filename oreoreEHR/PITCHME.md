@@ -71,7 +71,7 @@
 +++
 ### <font id='p_title'>データの抽出</font>
 
-- <font id='p_title'>前処理用の参照クラス</font>
+- <font id='p_title'>データ抽出＋前処理用の参照クラス</font>
 
 ```
 # PTaddress class----

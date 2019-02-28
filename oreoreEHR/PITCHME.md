@@ -23,7 +23,7 @@
 @fa[twitter fa-1x twitter-blue] <font id='p_main'>：@R_beginner</font> <br>
 <font id='p_main'>仕事：内科開業医(消化器病、肝臓病) </font><br>
 <font id='p_main'>趣味：マラソン, R, python<br>　　　neovimの設定ファイルいじり</font><br>
-<font id='p_main'>好きなRstudio short cut:<br>ctrl + alt + 矢印</font><br>
+<font id='p_main'>好きなRstudio short cut:<br>　　　ctrl + alt + 矢印</font><br>
 </div>
 
 ---

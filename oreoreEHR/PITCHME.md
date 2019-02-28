@@ -109,7 +109,7 @@ PTaddress = setRefClass("PTaddress",
 ---
 ### <font id='p_title'>shinyアプリの紹介</font>
 
-<font id='p_main'>イメージしやすいように、<br>診察室の風景風に…</font>
+<font id='p_main'>イメージしやすいように、診察室の風景風に…</font>
 
 ---
 ### <font id='p_title'>Hクリニック 第一診察室 </font>

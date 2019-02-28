@@ -129,7 +129,7 @@ PTaddress = setRefClass("PTaddress",
 <img src="oreoreEHR/img/obesity.jpg" height="500" alt= "title"/>  
 
 +++
-- <font id='p_main'>患者『薬は効いていますか？(キレ気味)』</font>
+- <font id='p_main'>患者『薬が効いてないんじゃないの？(キレ気味)』</font>
 
 <img src="oreoreEHR/img/doctor_isee2.png" height="200" alt= "title"/>  
 
@@ -139,7 +139,7 @@ PTaddress = setRefClass("PTaddress",
 <font id='p_main'>腎予後の改善を可視化</font>
 
 +++
-- <font id='p_main'>患者：僕の肝臓まずいですかね…(反省)</font>
+- <font id='p_main'>患者：肝臓はどうでしょうか…(反省)</font>
 - <font id='p_main'>医師：まだ大丈夫ですが…</font>  
   
 <img src="oreoreEHR/img/doctor_question.png" height="200" alt= "title"/> 

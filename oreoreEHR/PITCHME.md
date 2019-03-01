@@ -115,7 +115,7 @@ PTaddress = setRefClass("PTaddress",
 ### <font id='p_title'>Hクリニック 第一診察室 </font>
 
 +++
-### <font id='p_title'>症例 :　７０代男性、糖尿病、アルコール性肝硬変 </font>
+### <font id='p_title'>症例 :　７０代男性、<br>糖尿病、アルコール性肝硬変 </font>
 
 +++
 - <font id='p_main'>医師『食事療法はうまくいってますか？』</font>

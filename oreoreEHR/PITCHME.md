@@ -7,7 +7,7 @@
 ### <font id='p_title'>本日の内容</font>
 
 1. <font id='p_title'>自己紹介</font>
-2. <font id='p_title'>Rによる電子カルテへの接続</font>
+2. <font id='p_title'>Rで電子カルテへ接続</font>
 3. <font id='p_title'>当院でのshiny活用例</font>
 4. <font id='p_title'>shiny-serverの導入と注意点</font>
 
